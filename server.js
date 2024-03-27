@@ -2,6 +2,8 @@ import express from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 import { toyService } from "./services/toy.service.js";
+import { userService } from "./services/user.service.js";
+import { loggerService } from "./services/logger.service.js";
 
 
 
@@ -88,6 +90,80 @@ app.put('/api/toy/:id', (req, res) => {
             res.status(400).send({ msg: 'Had issues updating toy' })
         })
 })
+
+// AUTH API
+app.get('/api/user', (req, res) => {
+    userService.query()
+        .then((users) => {
+            res.send(users)
+        })
+        .catch((err) => {
+            loggerService.error('Cannot load users', err)
+            res.status(400).send('Cannot load users')
+        })
+})
+
+app.post('/api/auth/login', (req, res) => {
+    const credentials = req.body
+    userService.checkLogin(credentials)
+        .then(user => {
+            if (user) {
+                const loginToken = userService.getLoginToken(user)
+                res.cookie('loginToken', loginToken)
+                res.send(user)
+            } else {
+                loggerService.info('Invalid Credentials', credentials)
+                res.status(401).send('Invalid Credentials')
+            }
+        })
+})
+
+app.post('/api/auth/signup', (req, res) => {
+    const credentials = req.body
+    userService.save(credentials)
+        .then(user => {
+            if (user) {
+                const loginToken = userService.getLoginToken(user)
+                res.cookie('loginToken', loginToken)
+                res.send(user)
+            } else {
+                loggerService.info('Cannot signup', credentials)
+                res.status(400).send('Cannot signup')
+            }
+        })
+})
+
+app.post('/api/auth/logout', (req, res) => {
+    res.clearCookie('loginToken')
+    res.send('logged-out!')
+})
+
+app.get('/api/user/:userId', (req, res) => {
+    const { userId } = req.params
+    userService.getById(userId)
+        .then((user) => {
+            res.send(user)
+        })
+        .catch((err) => {
+            loggerService.error('Cannot get user', err)
+            res.status(400).send('Cannot get user')
+        })
+})
+
+app.put('/api/user', (req, res) => {
+    const loggedinUser = userService.validateToken(req.cookies.loginToken)
+    if (!loggedinUser) return res.status(400).send('No logged in user')
+    const { diff } = req.body
+    if (loggedinUser.score + diff < 0) return res.status(400).send('No credit')
+    loggedinUser.score += diff
+    return userService.save(loggedinUser).then(user => {
+        const token = userService.getLoginToken(user)
+        res.cookie('loginToken', token)
+        res.send(user)
+    })
+})
+
+
 
 const PORT = process.env.PORT || 3040
 app.listen(PORT,

@@ -1,0 +1,16 @@
+27.3.2024, 19:06:15 - INFO - user checklogin: | {"_id":"u102","isAdmin":true}
+27.3.2024, 19:07:54 - INFO - user checklogin: | {"_id":"u102","isAdmin":true}
+27.3.2024, 19:42:03 - INFO - user checklogin: | {"_id":"u102","isAdmin":true}
+27.3.2024, 19:43:37 - INFO - user checklogin: | {"_id":"u102","isAdmin":true}
+27.3.2024, 19:43:54 - INFO - Invalid Credentials | {"username":"","password":""}
+27.3.2024, 19:44:02 - INFO - user checklogin: | {"_id":"u102","isAdmin":true}
+27.3.2024, 19:44:12 - INFO - Invalid Credentials | {"username":"","password":""}
+27.3.2024, 19:44:18 - INFO - user checklogin: | {"_id":"u102","isAdmin":true}
+27.3.2024, 19:44:31 - INFO - Invalid Credentials | {"username":"","password":""}
+27.3.2024, 19:44:51 - INFO - user checklogin: | {"_id":"u102","isAdmin":true}
+27.3.2024, 19:50:24 - INFO - user checklogin: | {"_id":"3qq0L","fullname":""}
+27.3.2024, 20:00:49 - INFO - user checklogin: | {"_id":"3qq0L","fullname":""}
+27.3.2024, 20:01:34 - INFO - user checklogin: | {"_id":"3qq0L","fullname":""}
+27.3.2024, 20:02:29 - INFO - user checklogin: | {"_id":"u102","isAdmin":true}
+27.3.2024, 20:03:50 - INFO - user checklogin: | {"_id":"u102","fullname":"Puki Pa","isAdmin":true}
+27.3.2024, 20:22:50 - INFO - user checklogin: | {"_id":"u102","fullname":"Puki Pa","isAdmin":true}
