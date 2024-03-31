@@ -1,6 +1,5 @@
 [
   {
-    "_id": "118061",
     "name": "non",
     "price": 33,
     "type": "Adult",
@@ -8,7 +7,6 @@
     "inStock": false
   },
   {
-    "_id": "118062",
     "name": "etiam orci",
     "price": 79,
     "type": "Educational",
@@ -16,7 +14,6 @@
     "inStock": true
   },
   {
-    "_id": "118063",
     "name": "lorem aenean",
     "price": 38,
     "type": "Funny",
@@ -24,7 +21,6 @@
     "inStock": false
   },
   {
-    "_id": "118064",
     "name": "sed tortor",
     "price": 22,
     "type": "Adult",
@@ -32,7 +28,6 @@
     "inStock": true
   },
   {
-    "_id": "118065",
     "name": "eros elementum",
     "price": 60,
     "type": "Educational",
@@ -40,7 +35,6 @@
     "inStock": true
   },
   {
-    "_id": "118066",
     "name": "pulvinar vestibulum",
     "price": 76,
     "type": "Adult",
@@ -48,7 +42,6 @@
     "inStock": true
   },
   {
-    "_id": "118067",
     "name": "eget vitae",
     "price": 56,
     "type": "Funny",
@@ -56,7 +49,6 @@
     "inStock": true
   },
   {
-    "_id": "118068",
     "name": "quis nunc",
     "price": 61,
     "type": "Funny",
@@ -64,7 +56,6 @@
     "inStock": true
   },
   {
-    "_id": "118069",
     "name": "ante lacus",
     "price": 0,
     "type": "Adult",
@@ -72,7 +63,6 @@
     "inStock": false
   },
   {
-    "_id": "118070",
     "name": "lorem morbi",
     "price": 39,
     "type": "Educational",
@@ -80,7 +70,6 @@
     "inStock": true
   },
   {
-    "_id": "118071",
     "name": "eget at",
     "price": 12,
     "type": "Funny",
@@ -88,7 +77,6 @@
     "inStock": false
   },
   {
-    "_id": "118072",
     "name": "amet lacus",
     "price": 18,
     "type": "Funny",
@@ -96,7 +84,6 @@
     "inStock": true
   },
   {
-    "_id": "118073",
     "name": "ac odio",
     "price": 27,
     "type": "Adult",
@@ -104,7 +91,6 @@
     "inStock": false
   },
   {
-    "_id": "118074",
     "name": "nullam vel",
     "price": 38,
     "type": "Adult",
@@ -112,7 +98,6 @@
     "inStock": true
   },
   {
-    "_id": "118075",
     "name": "sed pulvinar",
     "price": 91,
     "type": "Adult",
@@ -120,7 +105,6 @@
     "inStock": true
   },
   {
-    "_id": "118076",
     "name": "consectetur scelerisque",
     "price": 66,
     "type": "Educational",
@@ -128,7 +112,6 @@
     "inStock": true
   },
   {
-    "_id": "118077",
     "name": "at pharetra",
     "price": 66,
     "type": "Adult",
@@ -136,7 +119,6 @@
     "inStock": false
   },
   {
-    "_id": "118078",
     "name": "sit tincidunt",
     "price": 17,
     "type": "Funny",
@@ -144,7 +126,6 @@
     "inStock": true
   },
   {
-    "_id": "118079",
     "name": "id magna",
     "price": 23,
     "type": "Educational",
@@ -152,18 +133,10 @@
     "inStock": true
   },
   {
-    "_id": "118080",
     "name": "magna ante",
     "price": 41,
     "type": "Funny",
     "createdAt": "1977-09-27T11:01:21.509Z",
     "inStock": true
-  },
-  {
-    "name": "סתו יער בר",
-    "price": 0,
-    "type": "",
-    "inStock": true,
-    "_id": "TbPY2O3"
   }
 ]

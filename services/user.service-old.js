@@ -58,7 +58,7 @@ function getById(userId) {
         user = {
             _id: user._id,
             fullname: user.fullname,
-            score: user.score
+            isAdmin: user.isAdmin
         }
     }
     return Promise.resolve(user)
@@ -73,7 +73,7 @@ function save(user) {
     let userToUpdate = user
     if (user._id) {
         userToUpdate = users.find(_user => user._id === _user._id)
-        userToUpdate.score = user.score
+        userToUpdate.isAdmin = user.isAdmin
     } else {
         userToUpdate._id = utilService.makeId()
         users.push(userToUpdate)
@@ -81,7 +81,7 @@ function save(user) {
     const miniUser = {
         _id: userToUpdate._id,
         fullname: userToUpdate.fullname,
-        score: userToUpdate.score
+        isAdmin: userToUpdate.isAdmin
     }
     return _saveUsersToFile().then(() => miniUser)
 }
