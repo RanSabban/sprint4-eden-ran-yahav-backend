@@ -6,10 +6,18 @@ export async function getToys(req, res) {
     try {
         const filterBy = {
             txt: req.query.params.filterBy.txt || '',
+            labels: req.query.params.filterBy.labels || '',
+            inStock: req.query.params.filterBy.inStock || '',
         }
 
+        const sortBy = {
+           by: req.query.params.sortBy.by || '',
+           asc: req.query.params.sortBy.asc || ''
+        } 
+            
+
         logger.debug('Getting Toys', filterBy)
-        const toys = await toyService.query(filterBy)
+        const toys = await toyService.query(filterBy, sortBy)
         res.json(toys)
     } catch (err) {
         logger.error('Failed to get toys', err)
@@ -33,11 +41,11 @@ export async function addToy(req, res) {
     const { loggedinUser } = req
     console.log(req);
     console.log(loggedinUser, '🥰');
-    
+
     try {
         const toy = req.body
         toy.creator = loggedinUser,
-        toy.inStock = true
+            toy.inStock = true
 
         const addedToy = await toyService.add(toy)
         res.json(addedToy)
@@ -86,6 +94,7 @@ export async function addToyMsg(req, res) {
     }
 }
 
+
 export async function removeToyMsg(req, res) {
     const { loggedinUser } = req
     console.log('fffffffffffffffffffffffff');
@@ -100,3 +109,38 @@ export async function removeToyMsg(req, res) {
         res.status(500).send({ err: 'Failed to remove toy msg' })
     }
 }
+
+export async function addToyReview(req, res) {
+    const { loggedinUser } = req
+    try {
+        const toyId = req.params.id
+        const review = {
+            txt: req.body.txt,
+            rating: req.body.rating,
+            by: loggedinUser,
+        }
+        const savedReview = await toyService.addToyReview(toyId, review)
+        res.json(savedReview)
+    } catch (err) {
+        logger.error('Failed to update toy review', err)
+        res.status(500).send({ err: 'Failed to update toy review' })
+    }
+}
+
+export async function removeToyReview(req, res) {
+    const { loggedinUser } = req
+    try {
+        const toyId = req.params.id
+        const { reviewId } = req.params
+
+        const removedId = await toyService.removeToyReview(toyId, reviewId)
+        res.send(removedId)
+    } catch (err) {
+        logger.error('Failed to remove toy review', err)
+        res.status(500).send({ err: 'Failed to remove toy review' })
+    }
+}
+// function extractTimestamp(toyId) {
+//     const timestamp = new Date(parseInt(toyId.substring(0, 8), 16) * 1000);
+//     return timestamp;
+// }

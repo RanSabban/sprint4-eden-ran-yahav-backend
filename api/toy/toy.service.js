@@ -5,59 +5,33 @@ import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 
-async function query(filterBy = { txt: '', maxPrice: 'Infinity', inStock: true }, sort = { by: 'price', asc: 'true' }) {
-    console.log(filterBy);
+async function query(filterBy = { txt: '', inStock: '' }, sortBy = { by: '', asc: 1 }) {
     try {
+        // console.log('sortBy', sortBy);
         let criteria = {
             name: { $regex: filterBy.txt, $options: 'i' }
+        };
+
+        if (filterBy.inStock !== 'all' && filterBy.inStock !== 'all' && filterBy.inStock !== '') {
+            criteria.inStock = { $eq: JSON.parse(filterBy.inStock) };
+            console.log('criteria.inStock', criteria.inStock);
         }
-        if (filterBy.inStock) {
-            criteria.inStock = JSON.parse(filterBy.inStock)
+
+        if (filterBy.labels && filterBy.labels.length > 0) {
+            criteria.labels = { $all: filterBy.labels };
         }
-        // if (filterBy.labels.length){
-        //     criteria.labels = { $in: filterBy.labels}
-        // }
-        let sortDirection = sort.asc === 'true' || sort.asc === true ? 1 : -1;
-        let sortField = sort.by; // Assuming 'price' or any other valid field name
 
         const collection = await dbService.getCollection('toy')
-        const toys = await collection.find(criteria).sort({ [sortField]: sortDirection }).toArray();
+        const sortOption = { [sortBy.type || 'name']: +sortBy.asc || 1 };
+
+        const toys = await collection.find(criteria).sort(sortOption).toArray()
+
         return toys
     } catch (err) {
         logger.error('cannot find toys', err)
         throw err
     }
 }
-
-// async function query({ filterBy = { txt: '', maxPrice: 'Infinity' }, sort = { by: 'price', asc: 'true' } }) {
-//     console.log(filterBy, sort);
-//     try {
-//         const collection = await dbService.getCollection('toy');
-//         let criteria = {
-//             name: { $regex: filterBy.txt, $options: 'i' }
-//         };
-
-//         // Apply inStock and maxPrice filters
-//         if (filterBy.inStock !== undefined) {
-//             criteria.inStock = JSON.parse(filterBy.inStock);
-//         }
-//         if (filterBy.maxPrice !== 'Infinity') {
-//             criteria.price = { $lte: parseFloat(filterBy.maxPrice) };
-//         }
-
-//         // Sorting logic adjustment
-//         let sortDirection = sort.asc === 'true' || sort.asc === true ? 1 : -1;
-//         let sortField = sort.by; // Assuming 'price' or any other valid field name
-
-//         // Perform the query, sort, convert to array, and store in toys variable
-//         const toys = await collection.find(criteria).sort({ [sortField]: sortDirection }).toArray();
-//         console.log('toys', toys); // Correct logging of fetched toys
-//         return toys; // Return the result of the query
-//     } catch (err) {
-//         logger.error('cannot find toys', err);
-//         throw err;
-//     }
-// }
 
 async function getById(toyId) {
     try {
@@ -97,7 +71,7 @@ async function update(toy) {
             name: toy.name,
             price: toy.price,
             labels: toy.labels,
-            // importance: toy.importance
+            reviews: toy.reviews
         }
         const collection = await dbService.getCollection('toy')
         await collection.updateOne({ _id: ObjectId(toy._id) }, { $set: toyToSave })
@@ -126,7 +100,30 @@ async function removeToyMsg(toyId, msgId) {
         await collection.updateOne({ _id: ObjectId(toyId) }, { $pull: { msgs: { id: msgId } } })
         return msgId
     } catch (err) {
-        logger.error(`cannot add toy msg ${toyId}`, err)
+        logger.error(`cannot remove toy msg ${toyId}`, err)
+        throw err
+    }
+}
+
+async function addToyReview(toyId, review) {
+    try {
+        review.id = utilService.makeId()
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne({ _id: ObjectId(toyId) }, { $push: { reviews: review } })
+        return review
+    } catch (err) {
+        logger.error(`cannot add toy review ${toyId}`, err)
+        throw err
+    }
+}
+
+async function removeToyReview(toyId, reviewId) {
+    try {
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne({ _id: ObjectId(toyId) }, { $pull: { reviews: { id: reviewId } } })
+        return reviewId
+    } catch (err) {
+        logger.error(`cannot remove toy review ${toyId}`, err)
         throw err
     }
 }
@@ -138,5 +135,7 @@ export const toyService = {
     add,
     update,
     addToyMsg,
-    removeToyMsg
+    removeToyMsg,
+    addToyReview,
+    removeToyReview
 }
