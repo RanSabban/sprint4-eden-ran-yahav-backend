@@ -93,6 +93,7 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
+            imgUrl: user.imgUrl,
             createdAt: Date.now(),
             isAdmin: false
         }

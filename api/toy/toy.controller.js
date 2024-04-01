@@ -8,13 +8,14 @@ export async function getToys(req, res) {
             txt: req.query.params.filterBy.txt || '',
             labels: req.query.params.filterBy.labels || '',
             inStock: req.query.params.filterBy.inStock || '',
+            // pageIdx: req.query.params.filterBy.pageIdx || '',
         }
 
         const sortBy = {
-           by: req.query.params.sortBy.by || '',
-           asc: req.query.params.sortBy.asc || ''
-        } 
-            
+            by: req.query.params.sortBy.by || '',
+            asc: req.query.params.sortBy.asc || ''
+        }
+
 
         logger.debug('Getting Toys', filterBy)
         const toys = await toyService.query(filterBy, sortBy)
@@ -39,14 +40,16 @@ export async function getToyById(req, res) {
 
 export async function addToy(req, res) {
     const { loggedinUser } = req
-    console.log(req);
-    console.log(loggedinUser, '🥰');
+    // console.log(req);
+    // console.log(loggedinUser, '🥰');
+    // const {creator, inStock, price} = req.body
 
     try {
         const toy = req.body
-        toy.creator = loggedinUser,
-            toy.inStock = true
-
+        toy.creator = loggedinUser
+        toy.inStock = true
+        toy.price = parseInt(toy.price) || 0
+        // console.log(typeof(toy.price), toy.price, '😍');
         const addedToy = await toyService.add(toy)
         res.json(addedToy)
     } catch (err) {
@@ -59,6 +62,9 @@ export async function addToy(req, res) {
 export async function updateToy(req, res) {
     try {
         const toy = req.body
+        console.log(toy);
+        toy.price = parseInt(toy.price) || 0
+
         const updatedToy = await toyService.update(toy)
         res.json(updatedToy)
     } catch (err) {
@@ -97,7 +103,7 @@ export async function addToyMsg(req, res) {
 
 export async function removeToyMsg(req, res) {
     const { loggedinUser } = req
-    console.log('fffffffffffffffffffffffff');
+    // console.log('fffffffffffffffffffffffff');
     try {
         const toyId = req.params.id
         const { msgId } = req.params
@@ -110,36 +116,6 @@ export async function removeToyMsg(req, res) {
     }
 }
 
-export async function addToyReview(req, res) {
-    const { loggedinUser } = req
-    try {
-        const toyId = req.params.id
-        const review = {
-            txt: req.body.txt,
-            rating: req.body.rating,
-            by: loggedinUser,
-        }
-        const savedReview = await toyService.addToyReview(toyId, review)
-        res.json(savedReview)
-    } catch (err) {
-        logger.error('Failed to update toy review', err)
-        res.status(500).send({ err: 'Failed to update toy review' })
-    }
-}
-
-export async function removeToyReview(req, res) {
-    const { loggedinUser } = req
-    try {
-        const toyId = req.params.id
-        const { reviewId } = req.params
-
-        const removedId = await toyService.removeToyReview(toyId, reviewId)
-        res.send(removedId)
-    } catch (err) {
-        logger.error('Failed to remove toy review', err)
-        res.status(500).send({ err: 'Failed to remove toy review' })
-    }
-}
 // function extractTimestamp(toyId) {
 //     const timestamp = new Date(parseInt(toyId.substring(0, 8), 16) * 1000);
 //     return timestamp;

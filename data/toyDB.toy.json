@@ -1,0 +1,199 @@
+[
+  {
+    "_id": {
+      "$oid": "660855fc0a1864514ca95e3c"
+    },
+    "name": "Keisha Carrot Cupcake with Orange Swirled Frosting",
+    "price": "444",
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "msgs": [],
+    "labels": [],
+    "reviews": null,
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972840/mweyoxlbo5ce9xqkqp9e.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "660856ba0a1864514ca95e3d"
+    },
+    "name": "Anjali Purple Elephant with Tie-Dye Ears and Flower",
+    "price": {
+      "$numberInt": "23"
+    },
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "msgs": [],
+    "labels": [
+      "On wheels",
+      "Box game",
+      "Art",
+      "Baby",
+      "Doll",
+      "Puzzle",
+      "Outdoor",
+      "Battery Powered"
+    ],
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972837/ek7b4fgqfkd5hwo8nr6e.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "660856c50a1864514ca95e3f"
+    },
+    "name": "Ukee Clown with Teal Hair and Black Bowler Hat",
+    "price": {
+      "$numberInt": "999"
+    },
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "labels": [],
+    "reviews": null,
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972843/n0ppz0qumf4spdtizxsj.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "66085cfa377b434b38aad288"
+    },
+    "name": "The Original Reversible Octopus Plushie",
+    "price": {
+      "$numberInt": "1232"
+    },
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "labels": [
+      "Box game",
+      "Art"
+    ],
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972846/qvjuj4g4bj4tegrwdqor.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "66085da1377b434b38aad289"
+    },
+    "name": "The Original Reversible Dog Plushie",
+    "price": {
+      "$numberInt": "76"
+    },
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "labels": [],
+    "reviews": null,
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972400/fjgdbwe352am0bu1zjze.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "66086613ec3df95d10e7fffc"
+    },
+    "name": "Peter Pig with Purple Bucket Hat and Coconut Drink",
+    "price": {
+      "$numberInt": "324"
+    },
+    "labels": [
+      "Art",
+      "Baby",
+      "Doll",
+      "Puzzle"
+    ],
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972834/ntw5wi4jnmmnemldsyjj.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "660866dfec3df95d10e7fffe"
+    },
+    "name": "Ainhoca Grey Ankylosaurus - Large Ultrasoft",
+    "price": {
+      "$numberInt": "324"
+    },
+    "labels": [
+      "Box game",
+      "Art"
+    ],
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": false,
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972831/wdwwaedit8z5gbijj4kf.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "660868ccec3df95d10e7ffff"
+    },
+    "name": "Maxie Red Frilled-Neck Lizard - Official Jazwares",
+    "price": {
+      "$numberInt": "999"
+    },
+    "labels": [
+      "Box game",
+      "Art",
+      "Baby"
+    ],
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972820/xwznczhqcexks5dc7c5r.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "660a58c02d3fd84554139f1b"
+    },
+    "name": "Kellytoy Plush 16\" Austin The Avocado",
+    "price": {
+      "$numberInt": "133"
+    },
+    "labels": [],
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711972828/fwjsil2f3eeynlpscvcw.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "660a5d4e0ae4894ae48f1cc7"
+    },
+    "name": "Rocky Grey Raccoon with Yellow Bucket Hattest1",
+    "price": {
+      "$numberInt": "12"
+    },
+    "labels": [],
+    "creator": {
+      "_id": "660595e371722614508c6800",
+      "fullname": "Admin",
+      "isAdmin": true
+    },
+    "inStock": true,
+    "imgUrl": "https://res.cloudinary.com/die0jjugu/image/upload/v1711973443/bceimjrtdx3ccdhghsbl.jpg"
+  }
+]

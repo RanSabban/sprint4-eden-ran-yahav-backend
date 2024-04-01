@@ -37,6 +37,7 @@ async function getById(toyId) {
     try {
         const collection = await dbService.getCollection('toy')
         var toy = collection.findOne({ _id: ObjectId(toyId) })
+        // toy.createdAt = ObjectId(toy._id.getTimestamp())
         return toy
     } catch (err) {
         logger.error(`while finding toy ${toyId}`, err)
@@ -56,6 +57,7 @@ async function remove(toyId) {
 
 async function add(toy) {
     try {
+        console.log(toy);
         const collection = await dbService.getCollection('toy')
         await collection.insertOne(toy)
         return toy
@@ -105,28 +107,6 @@ async function removeToyMsg(toyId, msgId) {
     }
 }
 
-async function addToyReview(toyId, review) {
-    try {
-        review.id = utilService.makeId()
-        const collection = await dbService.getCollection('toy')
-        await collection.updateOne({ _id: ObjectId(toyId) }, { $push: { reviews: review } })
-        return review
-    } catch (err) {
-        logger.error(`cannot add toy review ${toyId}`, err)
-        throw err
-    }
-}
-
-async function removeToyReview(toyId, reviewId) {
-    try {
-        const collection = await dbService.getCollection('toy')
-        await collection.updateOne({ _id: ObjectId(toyId) }, { $pull: { reviews: { id: reviewId } } })
-        return reviewId
-    } catch (err) {
-        logger.error(`cannot remove toy review ${toyId}`, err)
-        throw err
-    }
-}
 
 export const toyService = {
     remove,
@@ -136,6 +116,4 @@ export const toyService = {
     update,
     addToyMsg,
     removeToyMsg,
-    addToyReview,
-    removeToyReview
 }
