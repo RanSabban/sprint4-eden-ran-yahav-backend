@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "660595bb71722614508c67ff"
+  },
+  "username": "test",
+  "password": "$2b$10$EPBYt.bNLRlV9PIAaduf2ugSpyp8i1nWKGh5nPd3GBHJ7PZX7QToi",
+  "fullname": "Test",
+  "createdAt": {
+    "$numberLong": "1711642043913"
+  },
+  "isAdmin": false
+},
+{
+  "_id": {
+    "$oid": "660595e371722614508c6800"
+  },
+  "username": null,
+  "password": "$2b$10$dbjrlZgu../60M5OgAUaZOWYaW2ouGM4bhpWL2.utds7iX.Jeixfa",
+  "fullname": "Admin",
+  "createdAt": {
+    "$numberLong": "1711642083963"
+  },
+  "isAdmin": true
+},
+{
+  "_id": {
+    "$oid": "6608574b0a1864514ca95e42"
+  },
+  "username": "Boomer87",
+  "password": "$2b$10$u52Z3joENcumCBDBUzTNCOhtYzlZWfLXYzoobM6uth2TZk7D4bFxa",
+  "fullname": "Maor Shaer",
+  "createdAt": {
+    "$numberLong": "1711822667852"
+  },
+  "inStock": true,
+  "isAdmin": false
+},
+{
+  "_id": {
+    "$oid": "660a7640ce0fc178f8245f5f"
+  },
+  "username": "puki",
+  "password": "$2b$10$1LTGNWuDtm3MRAOFAvoyoerw4ibVrDsQZHlbiGDYuX7A5/wN5ctJC",
+  "fullname": "Puki",
+  "createdAt": {
+    "$numberLong": "1711961664357"
+  },
+  "isAdmin": false
+}]
