@@ -5445,3 +5445,60 @@
 1.4.2024, 23:40:44 - INFO - Req was made | / (userId: 660595e371722614508c6800)
 1.4.2024, 23:41:31 - INFO - server.js loaded... 
 1.4.2024, 23:41:31 - INFO - Server is running on port: 3040 
+1.4.2024, 23:55:40 - INFO - server.js loaded... 
+1.4.2024, 23:55:40 - INFO - Server is running on port: 3040 
+1.4.2024, 23:55:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:55:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:55:59 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+1.4.2024, 23:56:00 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:56:00 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:56:57 - INFO - server.js loaded... 
+1.4.2024, 23:56:57 - INFO - Server is running on port: 3040 
+1.4.2024, 23:57:01 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:01 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:17 - INFO - server.js loaded... 
+1.4.2024, 23:57:17 - INFO - Server is running on port: 3040 
+1.4.2024, 23:57:19 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:19 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:28 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:28 - DEBUG - Getting Toys | {"txt":"a","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:29 - DEBUG - Getting Toys | {"txt":"as","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:32 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:32 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:35 - DEBUG - Getting Toys | {"txt":"c","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:36 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:36 - DEBUG - Getting Toys | {"txt":"ca","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:37 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:37 - DEBUG - Getting Toys | {"txt":"car","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:39 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:39 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:40 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:41 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"true"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:42 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:42 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"false"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:43 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:43 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:44 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:44 - DEBUG - Getting Toys | {"txt":"","labels":["Baby"],"inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:45 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:45 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:47 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:47 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:48 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:48 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:49 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:49 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:50 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:51 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:51 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:51 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:54 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:58 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+1.4.2024, 23:57:58 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+1.4.2024, 23:59:08 - INFO - server.js loaded... 
+1.4.2024, 23:59:08 - INFO - Server is running on port: 3040 
+1.4.2024, 23:59:09 - INFO - server.js loaded... 
+1.4.2024, 23:59:09 - INFO - Server is running on port: 3040 
