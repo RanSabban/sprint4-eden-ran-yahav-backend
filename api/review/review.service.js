@@ -2,7 +2,7 @@ import {dbService} from '../../services/db.service.js'
 import {logger} from '../../services/logger.service.js'
 import {asyncLocalStorage} from '../../services/als.service.js'
 import mongodb from 'mongodb'
-const {ObjectId} = mongodb
+const { ObjectId } = mongodb
 
 async function query(filterBy = {}) {
     try {
@@ -62,8 +62,8 @@ async function remove(reviewId) {
         const { loggedinUser } = store
         const collection = await dbService.getCollection('review')
         // remove only if user is owner/admin
-        const criteria = { _id: ObjectId(reviewId) }
-        if (!loggedinUser.isAdmin) criteria.byUserId = ObjectId(loggedinUser._id)
+        const criteria = { _id: new Object(reviewId) }
+        if (!loggedinUser.isAdmin) criteria.byUserId = new ObjectId(loggedinUser._id)
         const {deletedCount} = await collection.deleteOne(criteria)
         return deletedCount
     } catch (err) {
@@ -76,8 +76,8 @@ async function remove(reviewId) {
 async function add(review) {
     try {
         const reviewToAdd = {
-            byUserId: ObjectId(review.byUserId),
-            aboutToyId: ObjectId(review.aboutToyId),
+            byUserId: new ObjectId(review.byUserId),
+            aboutToyId: new ObjectId(review.aboutToyId),
             txt: review.txt
         }
         const collection = await dbService.getCollection('review')
@@ -92,7 +92,7 @@ async function add(review) {
 
 function _buildCriteria(filterBy) {
     const criteria = {}
-    if (filterBy.byUserId) criteria.byUserId = ObjectId(filterBy.byUserId)
+    if (filterBy.byUserId) criteria.byUserId = new ObjectId(filterBy.byUserId)
     return criteria
 }
 
