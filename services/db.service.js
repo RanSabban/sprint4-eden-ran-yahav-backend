@@ -1,3 +1,4 @@
+import mongoDB from 'mongodb'
 const { MongoClient } = mongoDB
 
 import { config } from '../config/index.js'
