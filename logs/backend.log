@@ -5663,3 +5663,1108 @@
 2.4.2024, 9:29:53 - INFO - Req was made | / (userId: 660595e371722614508c6800)
 2.4.2024, 9:29:53 - INFO - Req was made | / (userId: 660595e371722614508c6800)
 2.4.2024, 9:29:53 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 9:32:29 - INFO - server.js loaded... 
+2.4.2024, 9:32:29 - INFO - Server is running on port: 3040 
+2.4.2024, 9:32:32 - INFO - server.js loaded... 
+2.4.2024, 9:32:32 - INFO - Server is running on port: 3040 
+2.4.2024, 9:32:49 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 9:32:49 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 9:32:49 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 9:40:56 - INFO - server.js loaded... 
+2.4.2024, 9:40:56 - INFO - Server is running on port: 3040 
+2.4.2024, 10:16:49 - INFO - server.js loaded... 
+2.4.2024, 10:16:49 - INFO - Server is running on port: 3040 
+2.4.2024, 10:16:58 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:16:58 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 10:17:01 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:17:01 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 10:20:40 - INFO - server.js loaded... 
+2.4.2024, 10:20:40 - INFO - Server is running on port: 3040 
+2.4.2024, 10:20:45 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:20:45 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 10:20:47 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:20:47 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:20:47 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 10:20:48 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:20:48 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 10:21:20 - INFO - server.js loaded... 
+2.4.2024, 10:21:20 - INFO - Server is running on port: 3040 
+2.4.2024, 10:21:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:21:22 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 10:21:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:21:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:21:24 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 10:21:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:21:29 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 10:25:10 - INFO - server.js loaded... 
+2.4.2024, 10:25:10 - INFO - Server is running on port: 3040 
+2.4.2024, 10:30:16 - INFO - server.js loaded... 
+2.4.2024, 10:30:16 - INFO - Server is running on port: 3040 
+2.4.2024, 10:30:21 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 10:30:21 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 10:35:12 - INFO - server.js loaded... 
+2.4.2024, 10:35:12 - INFO - Server is running on port: 3040 
+2.4.2024, 11:29:36 - INFO - server.js loaded... 
+2.4.2024, 11:29:36 - INFO - Server is running on port: 3040 
+2.4.2024, 11:29:48 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:29:48 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:33 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:33 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:35 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:36 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:36 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:37 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:37 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:39 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:39 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:44 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:44 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:50 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:50 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:30:50 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 11:50:35 - INFO - server.js loaded... 
+2.4.2024, 11:50:35 - INFO - Server is running on port: 3040 
+2.4.2024, 11:55:49 - INFO - server.js loaded... 
+2.4.2024, 11:55:49 - INFO - Server is running on port: 3040 
+2.4.2024, 11:55:55 - ERROR - cannot update toy 660868ccec3df95d10e7ffff | TypeError: toy._id.getTimestamp is not a function (userId: 660595e371722614508c6800)
+2.4.2024, 11:55:55 - ERROR - Failed to update toy | TypeError: toy._id.getTimestamp is not a function (userId: 660595e371722614508c6800)
+2.4.2024, 11:56:00 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:56:00 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:56:00 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 11:56:34 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:56:34 - DEBUG - Getting Toys | {"txt":"","labels":"","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 11:57:22 - INFO - server.js loaded... 
+2.4.2024, 11:57:22 - INFO - Server is running on port: 3040 
+2.4.2024, 11:57:25 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:57:26 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:57:26 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 11:57:32 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:57:32 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 11:57:32 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:34 - INFO - server.js loaded... 
+2.4.2024, 12:00:34 - INFO - Server is running on port: 3040 
+2.4.2024, 12:00:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:38 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:41 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:41 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:41 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:43 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:43 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:45 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:45 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:47 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:47 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:48 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:48 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:51 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:51 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:54 - DEBUG - Getting Toys | {"txt":"ש","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:57 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:57 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:58 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:58 - DEBUG - Getting Toys | {"txt":"a","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:58 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:00:58 - DEBUG - Getting Toys | {"txt":"as","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:01 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:01 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:03 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:03 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:05 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:05 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:08 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all","labels":["Baby"]} (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:10 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 12:01:10 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 12:55:45 - INFO - server.js loaded... 
+2.4.2024, 12:55:45 - INFO - Server is running on port: 3040 
+2.4.2024, 13:03:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:03:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:03:35 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 13:03:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:03:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:03:54 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 13:21:32 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:30 - INFO - server.js loaded... 
+2.4.2024, 13:50:30 - INFO - Server is running on port: 3040 
+2.4.2024, 13:50:37 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:37 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:37 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:43 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:43 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:44 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:44 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 13:50:44 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 13:54:08 - INFO - server.js loaded... 
+2.4.2024, 13:54:08 - INFO - Server is running on port: 3040 
+2.4.2024, 13:54:10 - INFO - server.js loaded... 
+2.4.2024, 13:54:10 - INFO - Server is running on port: 3040 
+2.4.2024, 13:54:11 - INFO - server.js loaded... 
+2.4.2024, 13:54:11 - INFO - Server is running on port: 3040 
+2.4.2024, 13:54:13 - INFO - server.js loaded... 
+2.4.2024, 13:54:13 - INFO - Server is running on port: 3040 
+2.4.2024, 13:54:16 - INFO - server.js loaded... 
+2.4.2024, 13:54:16 - INFO - Server is running on port: 3040 
+2.4.2024, 13:54:18 - INFO - server.js loaded... 
+2.4.2024, 13:54:18 - INFO - Server is running on port: 3040 
+2.4.2024, 14:17:07 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:17:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:17:08 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 14:21:47 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:21:47 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 14:21:47 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:45:19 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:45:20 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:45:20 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:45:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:45:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:45:22 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 14:45:43 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:45:43 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:49:03 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:49:04 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:50:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:50:22 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:03 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:03 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:29 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:33 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:33 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:52 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:52 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:53 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:53 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:53 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:53 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:54 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:54 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:54 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:55 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:51:55 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:52:07 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:52:07 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:52:25 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:52:25 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:53:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:53:24 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:13 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:13 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:18 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:18 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:35 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:36 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:37 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:37 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:43 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:54:43 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:55:36 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:55:36 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:55:48 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:55:48 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:57:21 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:57:21 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:57:32 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:57:32 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:57:33 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:57:33 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:58:02 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:58:02 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:58:10 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:58:10 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:58:17 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:58:17 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:59:50 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:59:50 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 14:59:53 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 14:59:53 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:02:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:02:22 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:02:28 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:02:28 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:02:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:02:29 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:06:12 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:06:12 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:06:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:06:22 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:07:28 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:07:28 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:07:34 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:07:34 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:07:37 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:07:37 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:08:15 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:08:15 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:08:19 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:08:19 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:08:58 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:08:58 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:10:04 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:10:04 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:10:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:10:08 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:11:15 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:11:15 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:12:56 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:12:56 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:12:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:12:59 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:09 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:09 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:21 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:21 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:22 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:14:24 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:15:07 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:15:07 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:15:10 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:15:10 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:00 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:00 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:03 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:03 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:42 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:42 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:50 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:50 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:53 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:18:53 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:19:34 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:19:34 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:19:45 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:19:45 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:19:48 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:19:48 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:22:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:22:55 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:06 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:06 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:10 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:10 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:40 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:40 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:42 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:43 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:57 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:23:57 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:24:31 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:24:31 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:24:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:24:35 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:25:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:25:08 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:25:20 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:25:20 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:25:49 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:25:49 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:26:25 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:26:25 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:26:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:26:29 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:27:34 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:27:34 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:27:36 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:27:36 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:31:26 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:31:26 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:31:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:31:29 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:35:34 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:35:34 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:35:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:35:38 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:36:47 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:36:47 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:36:50 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:36:50 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:38:20 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:38:20 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:38:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:38:24 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:39:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:39:54 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:39:57 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:39:57 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:40:05 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:40:05 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:40:47 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:40:47 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:40:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:40:59 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:42:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:42:35 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:42:39 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:42:39 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:44:13 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:44:13 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:44:16 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:44:16 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:44:19 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:44:19 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:45:55 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:45:55 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:45:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:45:59 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:47:50 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:47:50 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 15:55:58 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:55:58 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 15:55:58 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:57:58 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 15:57:59 - INFO - Broadcasting event: review-added (userId: 660595e371722614508c6800)
+2.4.2024, 15:57:59 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') (userId: 660595e371722614508c6800)
+2.4.2024, 15:57:59 - INFO - Emit to all (userId: 660595e371722614508c6800)
+2.4.2024, 16:00:20 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:00:20 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:20:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:20:08 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:20:20 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:20:56 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:20:56 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:00 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:00 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:10 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:35 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:48 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:51 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:52 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:54 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:55 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:56 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:57 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:58 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:21:59 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:22:01 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:22:02 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:22:03 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:22:35 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:22:39 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:22:39 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:22:42 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:22:55 - INFO - server.js loaded... 
+2.4.2024, 16:22:55 - INFO - Server is running on port: 3040 
+2.4.2024, 16:23:21 - INFO - server.js loaded... 
+2.4.2024, 16:23:21 - INFO - Server is running on port: 3040 
+2.4.2024, 16:23:40 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 16:23:46 - DEBUG - auth.service - login with username: admin 
+2.4.2024, 16:23:46 - INFO - User login:  | {"_id":"660595e371722614508c6800","username":"admin","fullname":"Admin","createdAt":1711642083963,"isAdmin":true} 
+2.4.2024, 16:23:57 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:23:57 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:24:23 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:24:23 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:26:31 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:26:31 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:26:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:26:38 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:31:01 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:31:01 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:32:34 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:32:34 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:33:00 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:33:00 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:33:04 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:33:04 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:36:36 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:36:36 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:36:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:36:38 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:39:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:39:08 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:44:00 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:44:00 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:44:04 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:44:04 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:49:57 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:49:57 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:53:07 - INFO - New connected socket [id: 7dJcaV1vaaTLXFjEAAAB] 
+2.4.2024, 16:53:07 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 7dJcaV1vaaTLXFjEAAAB] 
+2.4.2024, 16:55:57 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:55:57 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:56:01 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 16:56:01 - INFO - New connected socket [id: qPze6Z07WDA33-FPAAAD] 
+2.4.2024, 16:56:02 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: qPze6Z07WDA33-FPAAAD] 
+2.4.2024, 16:56:02 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:56:02 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 16:56:28 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 16:56:28 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 17:00:03 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:00:03 - INFO - New connected socket [id: HjdckQbDq3IOGdSwAAAF] 
+2.4.2024, 17:00:03 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: HjdckQbDq3IOGdSwAAAF] 
+2.4.2024, 17:00:54 - INFO - user-watch from socket [id: HjdckQbDq3IOGdSwAAAF], on user null 
+2.4.2024, 17:00:54 - ERROR - while finding user undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:00:54 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:00:59 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:01:00 - INFO - New connected socket [id: SspmTIReiG5cpBjTAAAH] 
+2.4.2024, 17:01:00 - ERROR - while finding user undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:01:00 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:01:00 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: SspmTIReiG5cpBjTAAAH] 
+2.4.2024, 17:01:00 - INFO - user-watch from socket [id: SspmTIReiG5cpBjTAAAH], on user null 
+2.4.2024, 17:02:30 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:02:30 - INFO - New connected socket [id: 81PxBmHCRQ9WQzzpAAAJ] 
+2.4.2024, 17:02:30 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 81PxBmHCRQ9WQzzpAAAJ] 
+2.4.2024, 17:02:30 - INFO - user-watch from socket [id: 81PxBmHCRQ9WQzzpAAAJ], on user null 
+2.4.2024, 17:02:30 - ERROR - while finding user undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:02:30 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:02:31 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:02:32 - INFO - New connected socket [id: DX2ZSny4BXsIMl_nAAAL] 
+2.4.2024, 17:02:32 - ERROR - while finding user undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:02:32 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:02:32 - INFO - user-watch from socket [id: DX2ZSny4BXsIMl_nAAAL], on user null 
+2.4.2024, 17:02:32 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: DX2ZSny4BXsIMl_nAAAL] 
+2.4.2024, 17:03:23 - INFO - user-watch from socket [id: DX2ZSny4BXsIMl_nAAAL], on user null 
+2.4.2024, 17:03:23 - ERROR - while finding user undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:03:23 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:04:10 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:04:10 - INFO - New connected socket [id: 7FbNRrC_hbdwIufjAAAN] 
+2.4.2024, 17:04:10 - ERROR - while finding user undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:04:10 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:04:10 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 7FbNRrC_hbdwIufjAAAN] 
+2.4.2024, 17:04:10 - INFO - user-watch from socket [id: 7FbNRrC_hbdwIufjAAAN], on user null 
+2.4.2024, 17:04:11 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:04:12 - INFO - New connected socket [id: 7KvgRWBUPU0tC6zjAAAP] 
+2.4.2024, 17:04:12 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 7KvgRWBUPU0tC6zjAAAP] 
+2.4.2024, 17:04:12 - INFO - user-watch from socket [id: 7KvgRWBUPU0tC6zjAAAP], on user null 
+2.4.2024, 17:04:12 - ERROR - while finding user undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:04:12 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:08:41 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:08:41 - INFO - New connected socket [id: QrH6ZVPe3smay5giAAAR] 
+2.4.2024, 17:08:42 - ERROR - while finding user undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:08:42 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 17:08:42 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: QrH6ZVPe3smay5giAAAR] 
+2.4.2024, 17:08:42 - INFO - user-watch from socket [id: QrH6ZVPe3smay5giAAAR], on user null 
+2.4.2024, 17:08:44 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:08:44 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 17:08:58 - INFO - Socket is leaving topic Love [id: QrH6ZVPe3smay5giAAAR] 
+2.4.2024, 17:09:10 - INFO - New chat msg from socket [id: QrH6ZVPe3smay5giAAAR], emitting to topic Politics 
+2.4.2024, 17:18:23 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:18:23 - INFO - New connected socket [id: ssP7p_7yqCikgTFfAAAT] 
+2.4.2024, 17:18:23 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: ssP7p_7yqCikgTFfAAAT] 
+2.4.2024, 17:18:25 - INFO - Socket is leaving topic Love [id: ssP7p_7yqCikgTFfAAAT] 
+2.4.2024, 17:18:26 - INFO - Socket is leaving topic Politics [id: ssP7p_7yqCikgTFfAAAT] 
+2.4.2024, 17:18:29 - INFO - New chat msg from socket [id: ssP7p_7yqCikgTFfAAAT], emitting to topic Love 
+2.4.2024, 17:18:31 - INFO - New chat msg from socket [id: ssP7p_7yqCikgTFfAAAT], emitting to topic Love 
+2.4.2024, 17:18:36 - INFO - New chat msg from socket [id: ssP7p_7yqCikgTFfAAAT], emitting to topic Love 
+2.4.2024, 17:18:40 - INFO - Socket is leaving topic Love [id: ssP7p_7yqCikgTFfAAAT] 
+2.4.2024, 17:18:41 - INFO - New chat msg from socket [id: ssP7p_7yqCikgTFfAAAT], emitting to topic Politics 
+2.4.2024, 17:22:29 - INFO - Removing socket.userId for socket [id: ssP7p_7yqCikgTFfAAAT] 
+2.4.2024, 17:22:31 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:22:31 - INFO - New connected socket [id: Jy0P68hqLovQRjeYAAAV] 
+2.4.2024, 17:22:36 - DEBUG - auth.service - login with username: admin 
+2.4.2024, 17:22:36 - ERROR - Failed to Login Error: Invalid username or password 
+2.4.2024, 17:22:50 - DEBUG - auth.service - login with username: admin 
+2.4.2024, 17:22:51 - INFO - User login:  | {"_id":"660595e371722614508c6800","username":"admin","fullname":"Admin","createdAt":1711642083963,"isAdmin":true} 
+2.4.2024, 17:22:51 - INFO - Setting socket.userId = [object Object] for socket [id: Jy0P68hqLovQRjeYAAAV] 
+2.4.2024, 17:22:53 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:22:54 - INFO - New connected socket [id: VRwQPKf9MaRnEHGoAAAX] 
+2.4.2024, 17:22:54 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: VRwQPKf9MaRnEHGoAAAX] 
+2.4.2024, 17:22:57 - INFO - New chat msg from socket [id: VRwQPKf9MaRnEHGoAAAX], emitting to topic Love 
+2.4.2024, 17:22:59 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:23:00 - INFO - New connected socket [id: sqDlZoPzJuzDug7fAAAZ] 
+2.4.2024, 17:23:00 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: sqDlZoPzJuzDug7fAAAZ] 
+2.4.2024, 17:24:31 - INFO - New chat msg from socket [id: sqDlZoPzJuzDug7fAAAZ], emitting to topic Love 
+2.4.2024, 17:33:05 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:33:05 - INFO - New connected socket [id: hlEEcehrKfwZSUoMAAAb] 
+2.4.2024, 17:33:05 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: hlEEcehrKfwZSUoMAAAb] 
+2.4.2024, 17:33:07 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:33:07 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 17:33:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:33:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:33:08 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:06 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:06 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:06 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:32 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:38:32 - INFO - New connected socket [id: zBeyD1fQG425I8wUAAAd] 
+2.4.2024, 17:38:33 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: zBeyD1fQG425I8wUAAAd] 
+2.4.2024, 17:38:33 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:33 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:33 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:37 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:38:38 - INFO - New connected socket [id: CPeN5ASIwkYJr81eAAAf] 
+2.4.2024, 17:38:38 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: CPeN5ASIwkYJr81eAAAf] 
+2.4.2024, 17:38:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:38:38 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:39:00 - INFO - server.js loaded... 
+2.4.2024, 17:39:00 - INFO - Server is running on port: 3040 
+2.4.2024, 17:39:00 - INFO - New connected socket [id: DXcDXoZ5z5khVALVAAAB] 
+2.4.2024, 17:39:01 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:39:02 - INFO - New connected socket [id: KsCUhGPXRPq4NZ9hAAAD] 
+2.4.2024, 17:39:02 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: KsCUhGPXRPq4NZ9hAAAD] 
+2.4.2024, 17:39:02 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:39:02 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:39:02 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:39:27 - INFO - server.js loaded... 
+2.4.2024, 17:39:27 - INFO - Server is running on port: 3040 
+2.4.2024, 17:39:27 - INFO - New connected socket [id: VeRT2y5A4IWcBi2YAAAB] 
+2.4.2024, 17:39:28 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:39:29 - INFO - New connected socket [id: p2pcRJ_45O9sH94DAAAD] 
+2.4.2024, 17:39:29 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: p2pcRJ_45O9sH94DAAAD] 
+2.4.2024, 17:39:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:39:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:39:29 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:44:33 - INFO - New chat msg from socket [id: p2pcRJ_45O9sH94DAAAD], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 17:44:50 - INFO - New chat msg from socket [id: p2pcRJ_45O9sH94DAAAD], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 17:45:02 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:45:03 - INFO - New connected socket [id: Lt28HjEporPGWKBoAAAF] 
+2.4.2024, 17:45:03 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Lt28HjEporPGWKBoAAAF] 
+2.4.2024, 17:45:03 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:07 - INFO - New chat msg from socket [id: Lt28HjEporPGWKBoAAAF], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 17:45:44 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:45:44 - INFO - New connected socket [id: oiDkz5MAwZdnU9fnAAAH] 
+2.4.2024, 17:45:44 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: oiDkz5MAwZdnU9fnAAAH] 
+2.4.2024, 17:45:45 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:48 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:48 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:52 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:52 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:52 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:52 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:54 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:45:55 - INFO - New connected socket [id: Deuye6YtVC2WCPMSAAAJ] 
+2.4.2024, 17:45:55 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Deuye6YtVC2WCPMSAAAJ] 
+2.4.2024, 17:45:55 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:45:58 - INFO - New chat msg from socket [id: Deuye6YtVC2WCPMSAAAJ], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 17:46:02 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:46:02 - INFO - New connected socket [id: okpRd8awBNEfl7fkAAAL] 
+2.4.2024, 17:46:02 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: okpRd8awBNEfl7fkAAAL] 
+2.4.2024, 17:46:03 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:46:59 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:46:59 - INFO - New connected socket [id: Q3W0YvxaQlu0h0qmAAAN] 
+2.4.2024, 17:46:59 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Q3W0YvxaQlu0h0qmAAAN] 
+2.4.2024, 17:47:00 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:47:03 - INFO - New chat msg from socket [id: Q3W0YvxaQlu0h0qmAAAN], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 17:47:19 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:47:20 - INFO - New connected socket [id: 0OzUty3AKQ-Cvj7qAAAP] 
+2.4.2024, 17:47:20 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 0OzUty3AKQ-Cvj7qAAAP] 
+2.4.2024, 17:47:20 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:47:55 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:47:55 - INFO - New connected socket [id: iuVjLD7qDhIC-sBTAAAR] 
+2.4.2024, 17:47:55 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: iuVjLD7qDhIC-sBTAAAR] 
+2.4.2024, 17:47:56 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:47:59 - INFO - New chat msg from socket [id: iuVjLD7qDhIC-sBTAAAR], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 17:49:38 - INFO - New connected socket [id: YG8vxlzpn7bdxxwSAAAT] 
+2.4.2024, 17:49:38 - INFO - Req was made | / 
+2.4.2024, 17:49:47 - DEBUG - auth.service - login with username: puki 
+2.4.2024, 17:49:47 - INFO - User login:  | {"_id":"660a7640ce0fc178f8245f5f","username":"puki","fullname":"Puki","createdAt":1711961664357,"isAdmin":false} 
+2.4.2024, 17:49:47 - INFO - Setting socket.userId = [object Object] for socket [id: YG8vxlzpn7bdxxwSAAAT] 
+2.4.2024, 17:49:57 - INFO - New chat msg from socket [id: YG8vxlzpn7bdxxwSAAAT], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 17:50:00 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:50:01 - INFO - New connected socket [id: a_BFRSj1XXeziP7_AAAV] 
+2.4.2024, 17:50:01 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: a_BFRSj1XXeziP7_AAAV] 
+2.4.2024, 17:50:01 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:27 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:27 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:29 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:30 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:30 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:30 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:30 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:31 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:50:32 - INFO - New connected socket [id: LAvJQmyHB4THkGGeAAAX] 
+2.4.2024, 17:50:32 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: LAvJQmyHB4THkGGeAAAX] 
+2.4.2024, 17:50:32 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:41 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:41 - INFO - Broadcasting event: review-added (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:41 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:41 - INFO - Broadcast to all excluding user: 660595e371722614508c6800 (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:45 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:50:46 - INFO - New connected socket [id: QMKlE-YcIFICUcsPAAAZ] 
+2.4.2024, 17:50:46 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: QMKlE-YcIFICUcsPAAAZ] 
+2.4.2024, 17:50:46 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:53 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:50:54 - INFO - New connected socket [id: uattVMe8hlBxwPVvAAAb] 
+2.4.2024, 17:50:54 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: uattVMe8hlBxwPVvAAAb] 
+2.4.2024, 17:50:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:50:58 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:50:59 - INFO - New connected socket [id: ahXQjKlNSn4PBq3TAAAd] 
+2.4.2024, 17:50:59 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: ahXQjKlNSn4PBq3TAAAd] 
+2.4.2024, 17:50:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:51:35 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:51:36 - INFO - New connected socket [id: 5Tu9ooge3fAnrkkKAAAf] 
+2.4.2024, 17:51:36 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 5Tu9ooge3fAnrkkKAAAf] 
+2.4.2024, 17:51:36 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:51:56 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:51:57 - INFO - New connected socket [id: JpRLt4xPta4oUFHNAAAh] 
+2.4.2024, 17:51:57 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: JpRLt4xPta4oUFHNAAAh] 
+2.4.2024, 17:51:57 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:53:23 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:53:23 - INFO - New connected socket [id: xvgVcPZR6q7EPjp2AAAj] 
+2.4.2024, 17:53:24 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: xvgVcPZR6q7EPjp2AAAj] 
+2.4.2024, 17:53:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:54:35 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:54:36 - INFO - New connected socket [id: 1LRM7fWp0AVc2moNAAAl] 
+2.4.2024, 17:54:36 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 1LRM7fWp0AVc2moNAAAl] 
+2.4.2024, 17:54:36 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:55:30 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:55:31 - INFO - New connected socket [id: YCTTZWDpKrNmrDdqAAAn] 
+2.4.2024, 17:55:31 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: YCTTZWDpKrNmrDdqAAAn] 
+2.4.2024, 17:55:31 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 17:57:26 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 17:57:27 - INFO - New connected socket [id: 4Q9iAwhlrhoXD3A4AAAp] 
+2.4.2024, 17:57:27 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 4Q9iAwhlrhoXD3A4AAAp] 
+2.4.2024, 17:57:27 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:01:12 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:01:12 - INFO - New connected socket [id: ijKDLS-nWlE-xi6QAAAr] 
+2.4.2024, 18:01:12 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: ijKDLS-nWlE-xi6QAAAr] 
+2.4.2024, 18:01:12 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:01:15 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 18:01:17 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:01:18 - INFO - New connected socket [id: ntXLys8SJAs6YB57AAAt] 
+2.4.2024, 18:01:18 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: ntXLys8SJAs6YB57AAAt] 
+2.4.2024, 18:01:18 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:01:27 - INFO - New chat msg from socket [id: ntXLys8SJAs6YB57AAAt], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 18:01:29 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:01:29 - INFO - New connected socket [id: Fe8sUvFK9vPzJJyoAAAv] 
+2.4.2024, 18:01:29 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Fe8sUvFK9vPzJJyoAAAv] 
+2.4.2024, 18:01:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:02:03 - INFO - New chat msg from socket [id: Fe8sUvFK9vPzJJyoAAAv], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 18:02:04 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:02:05 - INFO - New connected socket [id: dhXKoaU9lviq_FNPAAAx] 
+2.4.2024, 18:02:05 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: dhXKoaU9lviq_FNPAAAx] 
+2.4.2024, 18:02:05 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:02:24 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:02:25 - INFO - New connected socket [id: fjQvKhSprjGzlcwGAAAz] 
+2.4.2024, 18:02:25 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: fjQvKhSprjGzlcwGAAAz] 
+2.4.2024, 18:02:25 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:02:27 - INFO - New chat msg from socket [id: fjQvKhSprjGzlcwGAAAz], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 18:02:29 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:02:29 - INFO - New connected socket [id: z49pFJ9u0jxp9_cRAAA1] 
+2.4.2024, 18:02:29 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: z49pFJ9u0jxp9_cRAAA1] 
+2.4.2024, 18:02:30 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:02:47 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:02:48 - INFO - New connected socket [id: gwJsSGzp7CjjgP1wAAA3] 
+2.4.2024, 18:02:48 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: gwJsSGzp7CjjgP1wAAA3] 
+2.4.2024, 18:02:48 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:04:09 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:04:09 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 18:04:10 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:04:14 - INFO - New chat msg from socket [id: gwJsSGzp7CjjgP1wAAA3], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 18:04:16 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:04:17 - INFO - New connected socket [id: Pw00eMSunjTi0pb0AAA5] 
+2.4.2024, 18:04:17 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Pw00eMSunjTi0pb0AAA5] 
+2.4.2024, 18:04:17 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:05:45 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:05:45 - INFO - New connected socket [id: K66MYvfSmZsQGpNzAAA7] 
+2.4.2024, 18:05:45 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: K66MYvfSmZsQGpNzAAA7] 
+2.4.2024, 18:05:45 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:05:47 - INFO - New chat msg from socket [id: K66MYvfSmZsQGpNzAAA7], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 18:05:50 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:05:50 - INFO - New connected socket [id: 5Pf-uYeHxDufuVOSAAA9] 
+2.4.2024, 18:05:50 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 5Pf-uYeHxDufuVOSAAA9] 
+2.4.2024, 18:05:51 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:11:17 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:11:18 - INFO - New connected socket [id: qTvAcrH-mxN5AowwAAA_] 
+2.4.2024, 18:11:18 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: qTvAcrH-mxN5AowwAAA_] 
+2.4.2024, 18:11:18 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:11:20 - INFO - New chat msg from socket [id: qTvAcrH-mxN5AowwAAA_], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 18:11:22 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:11:23 - INFO - New connected socket [id: MLxGU6lxUASxUplrAABB] 
+2.4.2024, 18:11:23 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: MLxGU6lxUASxUplrAABB] 
+2.4.2024, 18:11:23 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:12:26 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:12:27 - INFO - New connected socket [id: Y2TK4lu-TEfiQYv5AABD] 
+2.4.2024, 18:12:27 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Y2TK4lu-TEfiQYv5AABD] 
+2.4.2024, 18:12:27 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:12:30 - INFO - New chat msg from socket [id: Y2TK4lu-TEfiQYv5AABD], emitting to topic Anjali Purple Elephant with Tie-Dye Ears and Flower 
+2.4.2024, 18:12:32 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:12:32 - INFO - New connected socket [id: Zd-NX0p6X6eqKLr-AABF] 
+2.4.2024, 18:12:32 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Zd-NX0p6X6eqKLr-AABF] 
+2.4.2024, 18:12:33 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:15:03 - INFO - server.js loaded... 
+2.4.2024, 18:15:03 - INFO - Server is running on port: 3040 
+2.4.2024, 18:15:04 - INFO - New connected socket [id: dYyHEem-aSoZDHcUAAAB] 
+2.4.2024, 18:15:04 - INFO - New connected socket [id: mzy5D9EBd4e9AwEBAAAD] 
+2.4.2024, 18:15:15 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:15:15 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 18:15:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:15:32 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 18:15:36 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:15:37 - INFO - New connected socket [id: WZjlYNc1yxveSgceAAAF] 
+2.4.2024, 18:15:37 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: WZjlYNc1yxveSgceAAAF] 
+2.4.2024, 18:15:37 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:15:48 - INFO - New chat msg from socket [id: WZjlYNc1yxveSgceAAAF], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:15:53 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:15:53 - INFO - New connected socket [id: MU72vOJGshvbfA_YAAAH] 
+2.4.2024, 18:15:53 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: MU72vOJGshvbfA_YAAAH] 
+2.4.2024, 18:15:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:16:01 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:16:01 - INFO - New connected socket [id: 3PLDnZ3a4MxRycUqAAAJ] 
+2.4.2024, 18:16:01 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 3PLDnZ3a4MxRycUqAAAJ] 
+2.4.2024, 18:16:02 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:16:19 - INFO - New chat msg from socket [id: 3PLDnZ3a4MxRycUqAAAJ], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:16:20 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:16:21 - INFO - New connected socket [id: oR83A0sM8fPuKzaXAAAL] 
+2.4.2024, 18:16:21 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: oR83A0sM8fPuKzaXAAAL] 
+2.4.2024, 18:16:21 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:16:40 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:16:41 - INFO - New connected socket [id: ayK25uWrYHoExptBAAAN] 
+2.4.2024, 18:16:41 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: ayK25uWrYHoExptBAAAN] 
+2.4.2024, 18:16:42 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:16:43 - INFO - New chat msg from socket [id: ayK25uWrYHoExptBAAAN], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:16:44 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:16:45 - INFO - New connected socket [id: OrFB5zz5MQU3JMV1AAAP] 
+2.4.2024, 18:16:45 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: OrFB5zz5MQU3JMV1AAAP] 
+2.4.2024, 18:16:45 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:17:28 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:17:29 - INFO - New connected socket [id: PFRRO1SGZllqV8IuAAAR] 
+2.4.2024, 18:17:29 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: PFRRO1SGZllqV8IuAAAR] 
+2.4.2024, 18:17:30 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:17:31 - INFO - New chat msg from socket [id: PFRRO1SGZllqV8IuAAAR], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:17:32 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:17:33 - INFO - New connected socket [id: AGm7mBP6X8kB24TUAAAT] 
+2.4.2024, 18:17:33 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: AGm7mBP6X8kB24TUAAAT] 
+2.4.2024, 18:17:33 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:18:54 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:18:55 - INFO - New connected socket [id: qRZmGqyRsM-_VFiCAAAV] 
+2.4.2024, 18:18:55 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: qRZmGqyRsM-_VFiCAAAV] 
+2.4.2024, 18:18:55 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:18:57 - INFO - New chat msg from socket [id: qRZmGqyRsM-_VFiCAAAV], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:18:58 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:18:58 - INFO - New connected socket [id: vgwiz1-9AIE_y41hAAAX] 
+2.4.2024, 18:18:59 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: vgwiz1-9AIE_y41hAAAX] 
+2.4.2024, 18:18:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:20:40 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:20:41 - INFO - New connected socket [id: MOMmqd8CF9SYHEw8AAAZ] 
+2.4.2024, 18:20:41 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: MOMmqd8CF9SYHEw8AAAZ] 
+2.4.2024, 18:20:41 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:20:43 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:20:43 - INFO - New connected socket [id: u_X4GDOvRFGexbgNAAAb] 
+2.4.2024, 18:20:43 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: u_X4GDOvRFGexbgNAAAb] 
+2.4.2024, 18:20:43 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:20:58 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:20:58 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:21:00 - INFO - Socket is leaving topic Anjali Purple Elephant with Tie-Dye Ears and Flower [id: mzy5D9EBd4e9AwEBAAAD] 
+2.4.2024, 18:21:00 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:21:13 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:21:13 - INFO - New connected socket [id: aAlMoZXYwezbKShwAAAd] 
+2.4.2024, 18:21:13 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: aAlMoZXYwezbKShwAAAd] 
+2.4.2024, 18:21:13 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:21:17 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:21:18 - INFO - New connected socket [id: x8vJdA7U8YZWOQeCAAAf] 
+2.4.2024, 18:21:18 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: x8vJdA7U8YZWOQeCAAAf] 
+2.4.2024, 18:21:18 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:21:46 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 18:22:17 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:22:18 - INFO - New connected socket [id: X3fnfLdot3tpRYx2AAAh] 
+2.4.2024, 18:22:18 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: X3fnfLdot3tpRYx2AAAh] 
+2.4.2024, 18:22:18 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:22:23 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:22:23 - INFO - New connected socket [id: GFBTTgSFIJ1cx7NpAAAj] 
+2.4.2024, 18:22:23 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: GFBTTgSFIJ1cx7NpAAAj] 
+2.4.2024, 18:22:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:22:29 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:22:29 - INFO - New connected socket [id: GNd8gCio2NIiS7FIAAAl] 
+2.4.2024, 18:22:30 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: GNd8gCio2NIiS7FIAAAl] 
+2.4.2024, 18:22:30 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:22:35 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:22:35 - INFO - New connected socket [id: KYQefQn8S_jxzBKhAAAn] 
+2.4.2024, 18:22:35 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: KYQefQn8S_jxzBKhAAAn] 
+2.4.2024, 18:22:35 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:22:38 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:22:39 - INFO - New connected socket [id: RSop4KT5LHcrG10cAAAp] 
+2.4.2024, 18:22:39 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: RSop4KT5LHcrG10cAAAp] 
+2.4.2024, 18:22:39 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:23:07 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:23:07 - INFO - New connected socket [id: yaZ7Nit9W7uBtGSqAAAr] 
+2.4.2024, 18:23:07 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: yaZ7Nit9W7uBtGSqAAAr] 
+2.4.2024, 18:23:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:24:36 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:24:37 - INFO - New connected socket [id: ym2wXdPGAeneOWPSAAAt] 
+2.4.2024, 18:24:37 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: ym2wXdPGAeneOWPSAAAt] 
+2.4.2024, 18:24:37 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:25:10 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:25:10 - INFO - New connected socket [id: LyEyYiHPrpPwWqc8AAAv] 
+2.4.2024, 18:25:10 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: LyEyYiHPrpPwWqc8AAAv] 
+2.4.2024, 18:25:10 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:25:34 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:25:34 - INFO - New connected socket [id: EEMXnawK3r87SuUCAAAx] 
+2.4.2024, 18:25:35 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: EEMXnawK3r87SuUCAAAx] 
+2.4.2024, 18:25:35 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:29:30 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:29:31 - INFO - New connected socket [id: QxSw_-v4HH6gzG73AAAz] 
+2.4.2024, 18:29:31 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: QxSw_-v4HH6gzG73AAAz] 
+2.4.2024, 18:29:31 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:29:34 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:29:35 - INFO - New connected socket [id: D5Nu1E9Vui54H7cpAAA1] 
+2.4.2024, 18:29:35 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: D5Nu1E9Vui54H7cpAAA1] 
+2.4.2024, 18:29:36 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:29:41 - INFO - New chat msg from socket [id: D5Nu1E9Vui54H7cpAAA1], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:29:41 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:29:42 - INFO - New connected socket [id: UTJV9Nr7tRsgoTFnAAA3] 
+2.4.2024, 18:29:42 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: UTJV9Nr7tRsgoTFnAAA3] 
+2.4.2024, 18:29:42 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:29:52 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:29:53 - INFO - New connected socket [id: kgJXGvTvKgdr4EH-AAA5] 
+2.4.2024, 18:29:53 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: kgJXGvTvKgdr4EH-AAA5] 
+2.4.2024, 18:29:53 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:30:06 - INFO - New chat msg from socket [id: kgJXGvTvKgdr4EH-AAA5], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:30:06 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:30:06 - INFO - New connected socket [id: 34gPgL2acPQngJgPAAA7] 
+2.4.2024, 18:30:07 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 34gPgL2acPQngJgPAAA7] 
+2.4.2024, 18:30:07 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:30:09 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:30:10 - INFO - New connected socket [id: hIzlT34MOO2Q_GhVAAA9] 
+2.4.2024, 18:30:10 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: hIzlT34MOO2Q_GhVAAA9] 
+2.4.2024, 18:30:10 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:30:17 - INFO - New chat msg from socket [id: hIzlT34MOO2Q_GhVAAA9], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:30:17 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:30:18 - INFO - New connected socket [id: YoTgMg-xUsS4nuPgAAA_] 
+2.4.2024, 18:30:18 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: YoTgMg-xUsS4nuPgAAA_] 
+2.4.2024, 18:30:19 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:30:56 - INFO - New chat msg from socket [id: 34gPgL2acPQngJgPAAA7], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:30:56 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:30:56 - INFO - New connected socket [id: pHKIEk3nvQvDSlMxAABB] 
+2.4.2024, 18:30:56 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: pHKIEk3nvQvDSlMxAABB] 
+2.4.2024, 18:30:57 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:31:33 - INFO - New chat msg from socket [id: pHKIEk3nvQvDSlMxAABB], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:31:34 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:31:34 - INFO - New connected socket [id: RXRT4kuxmAHXMI8gAABD] 
+2.4.2024, 18:31:35 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: RXRT4kuxmAHXMI8gAABD] 
+2.4.2024, 18:31:35 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:31:47 - INFO - New chat msg from socket [id: YoTgMg-xUsS4nuPgAAA_], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:31:47 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:31:48 - INFO - New connected socket [id: 7khqEq7vBFzgIy4cAABF] 
+2.4.2024, 18:31:48 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: 7khqEq7vBFzgIy4cAABF] 
+2.4.2024, 18:31:48 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:32:10 - INFO - New chat msg from socket [id: 7khqEq7vBFzgIy4cAABF], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:33:57 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:33:59 - INFO - New connected socket [id: DV2P34oNd4g0HUOVAABH] 
+2.4.2024, 18:33:59 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: DV2P34oNd4g0HUOVAABH] 
+2.4.2024, 18:33:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:34:03 - INFO - New chat msg from socket [id: DV2P34oNd4g0HUOVAABH], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:34:13 - INFO - New chat msg from socket [id: DV2P34oNd4g0HUOVAABH], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:35:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:35:24 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:35:44 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:35:45 - INFO - New connected socket [id: OR2qXhHJYHdzuVPqAABJ] 
+2.4.2024, 18:35:45 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: OR2qXhHJYHdzuVPqAABJ] 
+2.4.2024, 18:35:45 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:35:55 - INFO - New chat msg from socket [id: OR2qXhHJYHdzuVPqAABJ], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:37:24 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:37:25 - INFO - New connected socket [id: kkJDPWT57RjWZxUqAABL] 
+2.4.2024, 18:37:26 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: kkJDPWT57RjWZxUqAABL] 
+2.4.2024, 18:37:26 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:38:53 - INFO - New chat msg from socket [id: kkJDPWT57RjWZxUqAABL], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:38:58 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:38:59 - INFO - New connected socket [id: uf-U5P0rG2SU0fCCAABN] 
+2.4.2024, 18:38:59 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: uf-U5P0rG2SU0fCCAABN] 
+2.4.2024, 18:39:07 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:39:08 - INFO - New connected socket [id: 8v7u2fhmSeNdxOJfAABP] 
+2.4.2024, 18:39:08 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 8v7u2fhmSeNdxOJfAABP] 
+2.4.2024, 18:39:50 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:39:51 - INFO - New connected socket [id: iAq86R013wY9BJx2AABR] 
+2.4.2024, 18:39:51 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: iAq86R013wY9BJx2AABR] 
+2.4.2024, 18:39:51 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:39:53 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:39:53 - INFO - New connected socket [id: t5v9bB3bJwvCpRO8AABT] 
+2.4.2024, 18:39:53 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: t5v9bB3bJwvCpRO8AABT] 
+2.4.2024, 18:39:54 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:39:58 - INFO - New chat msg from socket [id: t5v9bB3bJwvCpRO8AABT], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:40:02 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:40:03 - INFO - New connected socket [id: 9D6Af-51WtxoYl5LAABV] 
+2.4.2024, 18:40:03 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: 9D6Af-51WtxoYl5LAABV] 
+2.4.2024, 18:40:44 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:40:45 - INFO - New connected socket [id: Gp6epPGhaLwVY7uMAABX] 
+2.4.2024, 18:40:45 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Gp6epPGhaLwVY7uMAABX] 
+2.4.2024, 18:42:14 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:42:15 - INFO - New connected socket [id: Rcm8FWxHmRmznI8qAABZ] 
+2.4.2024, 18:42:15 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Rcm8FWxHmRmznI8qAABZ] 
+2.4.2024, 18:42:15 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:42:17 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:42:18 - INFO - New connected socket [id: oZFUaUwU4hgihGbLAABb] 
+2.4.2024, 18:42:18 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: oZFUaUwU4hgihGbLAABb] 
+2.4.2024, 18:42:19 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:42:19 - INFO - New chat msg from socket [id: Rcm8FWxHmRmznI8qAABZ], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:42:22 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:42:23 - INFO - New connected socket [id: MZvt55Le4xYZmOAXAABd] 
+2.4.2024, 18:42:23 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: MZvt55Le4xYZmOAXAABd] 
+2.4.2024, 18:42:53 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:42:53 - INFO - New connected socket [id: 1VRWpha95fcxfJ4LAABf] 
+2.4.2024, 18:42:53 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 1VRWpha95fcxfJ4LAABf] 
+2.4.2024, 18:42:54 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:43:53 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:43:55 - INFO - New chat msg from socket [id: 1VRWpha95fcxfJ4LAABf], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:44:27 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:44:27 - INFO - New connected socket [id: 9Ozn_wjrxm6LiuHQAABh] 
+2.4.2024, 18:44:28 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 9Ozn_wjrxm6LiuHQAABh] 
+2.4.2024, 18:44:40 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:44:41 - INFO - New connected socket [id: zg86DFQr3lRr4OxjAABj] 
+2.4.2024, 18:44:41 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: zg86DFQr3lRr4OxjAABj] 
+2.4.2024, 18:44:41 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:44:44 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:44:45 - INFO - New connected socket [id: 7m2j155MKOu1uR45AABl] 
+2.4.2024, 18:44:45 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: 7m2j155MKOu1uR45AABl] 
+2.4.2024, 18:44:46 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:44:46 - INFO - New chat msg from socket [id: zg86DFQr3lRr4OxjAABj], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:44:49 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:44:49 - INFO - New connected socket [id: jMQDvR6D6jvMXAL_AABn] 
+2.4.2024, 18:44:49 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: jMQDvR6D6jvMXAL_AABn] 
+2.4.2024, 18:44:50 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:44:58 - INFO - New chat msg from socket [id: zg86DFQr3lRr4OxjAABj], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:44:59 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:45:00 - INFO - New connected socket [id: cXlUL6VFgoFqniUoAABp] 
+2.4.2024, 18:45:00 - INFO - Setting socket.userId = 660a7640ce0fc178f8245f5f for socket [id: cXlUL6VFgoFqniUoAABp] 
+2.4.2024, 18:45:01 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:45:12 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:45:13 - INFO - New connected socket [id: CHXVKewkOo34HAz2AABr] 
+2.4.2024, 18:45:13 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: CHXVKewkOo34HAz2AABr] 
+2.4.2024, 18:45:13 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:45:14 - INFO - New chat msg from socket [id: CHXVKewkOo34HAz2AABr], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:48:24 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:48:25 - INFO - New connected socket [id: D3OP3CsMlOasRnkXAABt] 
+2.4.2024, 18:48:25 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: D3OP3CsMlOasRnkXAABt] 
+2.4.2024, 18:48:25 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:48:40 - INFO - New chat msg from socket [id: D3OP3CsMlOasRnkXAABt], emitting to topic Kellytoy Plush 16" Austin The Avocado 
+2.4.2024, 18:50:47 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 18:51:52 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:51:53 - INFO - New connected socket [id: 7KOdRUO5yA3s_w7NAABv] 
+2.4.2024, 18:51:53 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 7KOdRUO5yA3s_w7NAABv] 
+2.4.2024, 18:51:53 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:51:55 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 18:51:56 - INFO - Removing socket.userId for socket [id: 7KOdRUO5yA3s_w7NAABv] 
+2.4.2024, 18:52:00 - DEBUG - auth.service - login with username: admin 
+2.4.2024, 18:52:00 - INFO - User login:  | {"_id":"660595e371722614508c6800","username":"admin","fullname":"Admin","createdAt":1711642083963,"isAdmin":true} 
+2.4.2024, 18:52:00 - INFO - Setting socket.userId = [object Object] for socket [id: 7KOdRUO5yA3s_w7NAABv] 
+2.4.2024, 18:52:04 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:52:04 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 18:52:07 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:52:08 - INFO - New connected socket [id: Wf0DeLccstiirxVlAABx] 
+2.4.2024, 18:52:08 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Wf0DeLccstiirxVlAABx] 
+2.4.2024, 18:52:08 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:52:12 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:52:12 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 18:52:38 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:52:39 - INFO - New connected socket [id: 4WFpfjeCPyxxgWhJAABz] 
+2.4.2024, 18:52:39 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 4WFpfjeCPyxxgWhJAABz] 
+2.4.2024, 18:52:40 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:53:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:53:30 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660595e371722614508c6800)
+2.4.2024, 18:53:32 - INFO - Req was made | / (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:53:32 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') (userId: 660a7640ce0fc178f8245f5f)
+2.4.2024, 18:54:42 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:54:43 - INFO - New connected socket [id: WKyzuuhm3Gjy_g4OAAB1] 
+2.4.2024, 18:54:43 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: WKyzuuhm3Gjy_g4OAAB1] 
+2.4.2024, 18:54:43 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:54:50 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:54:51 - INFO - New connected socket [id: MMzHXa3OvFZDRa8bAAB3] 
+2.4.2024, 18:54:51 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: MMzHXa3OvFZDRa8bAAB3] 
+2.4.2024, 18:54:51 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:55:12 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:55:12 - INFO - Broadcasting event: review-added (userId: 660595e371722614508c6800)
+2.4.2024, 18:55:12 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') (userId: 660595e371722614508c6800)
+2.4.2024, 18:55:12 - INFO - Broadcast to all excluding user: 660595e371722614508c6800 (userId: 660595e371722614508c6800)
+2.4.2024, 18:55:23 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 18:55:27 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:55:28 - INFO - New connected socket [id: RfCJVeSdI7edEAQTAAB5] 
+2.4.2024, 18:55:28 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: RfCJVeSdI7edEAQTAAB5] 
+2.4.2024, 18:55:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:55:48 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:55:49 - INFO - New connected socket [id: jK0UwJ-gY2C3HLOZAAB7] 
+2.4.2024, 18:55:49 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: jK0UwJ-gY2C3HLOZAAB7] 
+2.4.2024, 18:55:49 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:56:54 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:56:55 - INFO - New connected socket [id: QhUPpQ116kb9Cz1CAAB9] 
+2.4.2024, 18:56:55 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: QhUPpQ116kb9Cz1CAAB9] 
+2.4.2024, 18:56:56 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:56:59 - WARN - Adminattempted to perform admin action (userId: 660595e371722614508c6800)
+2.4.2024, 18:57:12 - INFO - Removing socket.userId for socket [id: QhUPpQ116kb9Cz1CAAB9] 
+2.4.2024, 18:57:16 - DEBUG - auth.service - login with username: admin 
+2.4.2024, 18:57:17 - INFO - User login:  | {"_id":"660595e371722614508c6800","username":"admin","fullname":"Admin","createdAt":1711642083963,"isAdmin":true} 
+2.4.2024, 18:57:17 - INFO - Setting socket.userId = [object Object] for socket [id: QhUPpQ116kb9Cz1CAAB9] 
+2.4.2024, 18:57:19 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:57:20 - INFO - New connected socket [id: AegA0HS4ojPWbndtAAB_] 
+2.4.2024, 18:57:20 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: AegA0HS4ojPWbndtAAB_] 
+2.4.2024, 18:57:20 - ERROR - while finding toy undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 18:57:20 - ERROR - Failed to get toy | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+2.4.2024, 18:57:27 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:57:27 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+2.4.2024, 18:57:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 18:57:36 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 18:57:37 - INFO - New connected socket [id: yFZpP06oX4odBpGVAACB] 
+2.4.2024, 18:57:37 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: yFZpP06oX4odBpGVAACB] 
+2.4.2024, 18:57:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 20:21:45 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:21:57 - INFO - New connected socket [id: tIo4SF6PcV6Jf_H_AACD] 
+2.4.2024, 20:21:57 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: tIo4SF6PcV6Jf_H_AACD] 
+2.4.2024, 20:26:08 - INFO - New connected socket [id: b6wX4xf0hcDmU880AACF] 
+2.4.2024, 20:26:09 - INFO - New connected socket [id: IcnVtyJapF21U-ZDAACH] 
+2.4.2024, 20:26:25 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:27:03 - INFO - server.js loaded... 
+2.4.2024, 20:27:03 - INFO - Server is running on port: 3040 
+2.4.2024, 20:27:03 - INFO - New connected socket [id: HKFwOqmly1tttk8aAAAB] 
+2.4.2024, 20:27:04 - INFO - New connected socket [id: 1yL34hJexDKFQJRjAAAD] 
+2.4.2024, 20:27:06 - INFO - New connected socket [id: Bp7U3ej3850FLC0_AAAG] 
+2.4.2024, 20:27:06 - INFO - New connected socket [id: XF4IN5hsm__e9uTAAAAH] 
+2.4.2024, 20:27:13 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:27:14 - INFO - New connected socket [id: Rjmku4KjdiJvAtOYAAAJ] 
+2.4.2024, 20:31:51 - INFO - New connected socket [id: MaJ1uDm-EdrdJFY6AAAL] 
+2.4.2024, 20:31:55 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:31:56 - INFO - New connected socket [id: R6qhqc05Pg9PrV36AAAN] 
+2.4.2024, 20:31:56 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:31:57 - INFO - New connected socket [id: zi7GnjIKp_4Q_6UGAAAP] 
+2.4.2024, 20:32:02 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:32:41 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:33:16 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:33:18 - INFO - New connected socket [id: y5WKGGTKhSow4jODAAAR] 
+2.4.2024, 20:33:21 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:33:22 - INFO - New connected socket [id: n15QJpt2J3PlW3EMAAAT] 
+2.4.2024, 20:33:26 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:33:27 - INFO - New connected socket [id: sPG2-S8d7aOLqcaxAAAV] 
+2.4.2024, 20:33:43 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:33:44 - INFO - New connected socket [id: V1EplmBnvXAOcRRVAAAX] 
+2.4.2024, 20:37:20 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 20:37:21 - INFO - New connected socket [id: zAD0vBgzU_Fmm0ByAAAZ] 
+2.4.2024, 20:37:21 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: zAD0vBgzU_Fmm0ByAAAZ] 
+2.4.2024, 20:37:32 - INFO - Socket disconnected [id: undefined] 
+2.4.2024, 22:19:42 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+2.4.2024, 22:19:42 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 1:59:20 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 1:59:21 - INFO - New connected socket [id: 1HCOiS6v5RO_3L5xAAAb] 
+3.4.2024, 1:59:21 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+3.4.2024, 1:59:21 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 1:59:21 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: 1HCOiS6v5RO_3L5xAAAb] 
+3.4.2024, 2:04:09 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+3.4.2024, 2:04:09 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 2:04:24 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+3.4.2024, 2:04:24 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 2:04:34 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+3.4.2024, 2:04:34 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 2:04:45 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 2:04:46 - INFO - New connected socket [id: fxSJWnRLJaXvqGS2AAAd] 
+3.4.2024, 2:04:46 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 2:04:46 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+3.4.2024, 2:04:46 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: fxSJWnRLJaXvqGS2AAAd] 
+3.4.2024, 2:07:21 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 2:07:22 - INFO - New connected socket [id: GfoIhYtG6mbHLnjxAAAf] 
+3.4.2024, 2:07:22 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: GfoIhYtG6mbHLnjxAAAf] 
+3.4.2024, 2:07:22 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+3.4.2024, 2:07:22 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 2:09:28 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 2:09:29 - INFO - New connected socket [id: Ny0vb9W1g6KE-IBRAAAh] 
+3.4.2024, 2:09:29 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: Ny0vb9W1g6KE-IBRAAAh] 
+3.4.2024, 2:09:29 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+3.4.2024, 2:09:30 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 2:11:45 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 2:11:45 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 9:12:22 - INFO - New connected socket [id: Ir-ryl-3J0mKCi2aAAAk] 
+3.4.2024, 9:12:33 - INFO - New connected socket [id: y8Xr_D2KBwA4lDmqAAAl] 
+3.4.2024, 9:12:34 - INFO - Socket disconnected [id: undefined] 
+3.4.2024, 9:12:37 - INFO - New connected socket [id: yX343esOpbgM5M9_AAAn] 
+3.4.2024, 9:12:37 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+3.4.2024, 9:12:37 - DEBUG - Getting Toys | {"txt":"","price":"Infinity","inStock":"all"} (userId: 660595e371722614508c6800)
+3.4.2024, 9:12:37 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: yX343esOpbgM5M9_AAAn] 
+14.4.2024, 19:01:28 - INFO - server.js loaded... 
+14.4.2024, 19:01:28 - INFO - Server is running on port: 3040 

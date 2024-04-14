@@ -1,4 +1,4 @@
-import http from 'http'
+import http, { Server } from 'http'
 // import { http } from 'follow-redirects'
 import express  from 'express'
 import path, { dirname } from 'path'
@@ -14,7 +14,6 @@ logger.info('server.js loaded...')
 
 const app = express()
 const server = http.createServer(app)
-
 // Express App Config
 app.use(cookieParser())
 app.use(express.json())
@@ -36,7 +35,7 @@ if (process.env.NODE_ENV === 'production') {
 
 import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
-import { toyRoutes } from './api/toy/toy.routes.js'
+import { boardRoutes } from './api/board/board.routes.js'
 import { reviewRoutes } from './api/review/review.routes.js'
 import { setupSocketAPI } from './services/socket.service.js'
 
@@ -47,7 +46,7 @@ app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
-app.use('/api/toy', toyRoutes)
+app.use('/api/board', boardRoutes)
 app.use('/api/review', reviewRoutes)
 setupSocketAPI(server)
 
@@ -56,12 +55,15 @@ setupSocketAPI(server)
 // So when requesting http://localhost:3030/index.html/car/123 it will still respond with
 // our SPA (single page app) (the index.html file) and allow vue-router to take it from there
 
+// app.get('/**', (req, res) => {
+//     res.sendFile(path.resolve('public/index.html'))
+// })
 app.get('/**', (req, res) => {
-    res.sendFile(path.resolve('public/index.html'))
+    res.sendFile(join(__dirname,'public/index.html'))
 })
 
 const port = process.env.PORT || 3040
 
-app.listen(port, () => {
+server.listen(port, () => {
     logger.info('Server is running on port: ' + port)
 })

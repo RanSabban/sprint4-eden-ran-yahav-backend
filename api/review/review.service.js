@@ -91,7 +91,7 @@ async function add(review) {
         }
         const collection = await dbService.getCollection('review')
         await collection.insertOne(reviewToAdd)
-        console.log("reviewtoadd", reviewToAdd);
+        console.log("reviewToAdd", reviewToAdd);
         return reviewToAdd
     } catch (err) {
         logger.error('cannot insert review', err)
