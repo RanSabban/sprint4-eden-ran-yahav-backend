@@ -7428,3 +7428,17 @@
 15.4.2024, 21:36:07 - INFO - Server is running on port: 3040 
 15.4.2024, 21:36:09 - INFO - server.js loaded... 
 15.4.2024, 21:36:09 - INFO - Server is running on port: 3040 
+15.4.2024, 22:00:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 22:03:03 - INFO - server.js loaded... 
+15.4.2024, 22:03:03 - INFO - Server is running on port: 3040 
+15.4.2024, 22:03:05 - INFO - server.js loaded... 
+15.4.2024, 22:03:05 - INFO - Server is running on port: 3040 
+15.4.2024, 22:05:43 - INFO - server.js loaded... 
+15.4.2024, 22:05:43 - INFO - Server is running on port: 3040 
+15.4.2024, 22:05:45 - INFO - server.js loaded... 
+15.4.2024, 22:05:45 - INFO - Server is running on port: 3040 
