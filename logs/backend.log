@@ -7402,6 +7402,46 @@
 15.4.2024, 20:53:11 - INFO - Server is running on port: 3040 
 15.4.2024, 20:53:37 - INFO - server.js loaded... 
 15.4.2024, 20:53:37 - INFO - Server is running on port: 3040 
+15.4.2024, 21:13:33 - INFO - server.js loaded... 
+15.4.2024, 21:13:33 - INFO - Server is running on port: 3040 
+15.4.2024, 21:22:04 - INFO - server.js loaded... 
+15.4.2024, 21:22:04 - INFO - Server is running on port: 3040 
+15.4.2024, 21:22:56 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 21:22:56 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 21:22:56 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 21:22:56 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 21:22:56 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 21:22:56 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 21:22:57 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+15.4.2024, 21:22:57 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+15.4.2024, 21:24:25 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 21:24:25 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 21:24:26 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+15.4.2024, 21:24:26 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+15.4.2024, 21:29:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 21:29:59 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 21:29:59 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+15.4.2024, 21:29:59 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 660595e371722614508c6800)
+15.4.2024, 21:29:59 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 21:29:59 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 21:36:07 - INFO - server.js loaded... 
+15.4.2024, 21:36:07 - INFO - Server is running on port: 3040 
+15.4.2024, 21:36:09 - INFO - server.js loaded... 
+15.4.2024, 21:36:09 - INFO - Server is running on port: 3040 
+15.4.2024, 22:00:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - INFO - Req was made | / (userId: 660595e371722614508c6800)
+15.4.2024, 22:00:38 - DEBUG - Getting Boards (userId: 660595e371722614508c6800)
+15.4.2024, 22:03:03 - INFO - server.js loaded... 
+15.4.2024, 22:03:03 - INFO - Server is running on port: 3040 
+15.4.2024, 22:03:05 - INFO - server.js loaded... 
+15.4.2024, 22:03:05 - INFO - Server is running on port: 3040 
+15.4.2024, 22:05:43 - INFO - server.js loaded... 
+15.4.2024, 22:05:43 - INFO - Server is running on port: 3040 
+15.4.2024, 22:05:45 - INFO - server.js loaded... 
+15.4.2024, 22:05:45 - INFO - Server is running on port: 3040 
 15.4.2024, 21:00:27 - INFO - Req was made | / 
 15.4.2024, 21:00:27 - DEBUG - Getting Boards 
 15.4.2024, 21:00:27 - DEBUG - Getting Boards 
