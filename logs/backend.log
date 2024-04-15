@@ -6810,3 +6810,511 @@
 15.4.2024, 1:05:47 - INFO - Server is running on port: 3040 
 15.4.2024, 1:05:49 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
 15.4.2024, 1:05:49 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 13:47:08 - INFO - server.js loaded... 
+15.4.2024, 13:47:08 - INFO - Server is running on port: 3040 
+15.4.2024, 13:47:13 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 13:47:13 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 13:47:28 - INFO - Req was made | / 
+15.4.2024, 13:47:28 - DEBUG - Getting Boards 
+15.4.2024, 15:47:01 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 15:47:01 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:11:42 - INFO - server.js loaded... 
+15.4.2024, 16:11:42 - INFO - Server is running on port: 3040 
+15.4.2024, 16:11:51 - INFO - Req was made | / 
+15.4.2024, 16:11:51 - DEBUG - Getting Boards 
+15.4.2024, 16:11:52 - INFO - Req was made | / 
+15.4.2024, 16:11:52 - DEBUG - Getting Boards 
+15.4.2024, 16:11:58 - INFO - Req was made | / 
+15.4.2024, 16:11:58 - DEBUG - Getting Boards 
+15.4.2024, 16:11:58 - INFO - Req was made | / 
+15.4.2024, 16:11:58 - DEBUG - Getting Boards 
+15.4.2024, 16:12:27 - INFO - Req was made | / 
+15.4.2024, 16:12:27 - DEBUG - Getting Boards 
+15.4.2024, 16:12:27 - INFO - Req was made | / 
+15.4.2024, 16:12:27 - DEBUG - Getting Boards 
+15.4.2024, 16:13:10 - DEBUG - Getting Boards 
+15.4.2024, 16:13:10 - INFO - Req was made | / 
+15.4.2024, 16:13:10 - INFO - Req was made | / 
+15.4.2024, 16:13:10 - DEBUG - Getting Boards 
+15.4.2024, 16:13:54 - INFO - Req was made | / 
+15.4.2024, 16:13:54 - DEBUG - Getting Boards 
+15.4.2024, 16:13:54 - INFO - Req was made | / 
+15.4.2024, 16:13:54 - DEBUG - Getting Boards 
+15.4.2024, 16:14:06 - INFO - Req was made | / 
+15.4.2024, 16:14:06 - DEBUG - Getting Boards 
+15.4.2024, 16:14:06 - INFO - Req was made | / 
+15.4.2024, 16:14:06 - DEBUG - Getting Boards 
+15.4.2024, 16:14:35 - INFO - Req was made | / 
+15.4.2024, 16:14:35 - DEBUG - Getting Boards 
+15.4.2024, 16:14:35 - INFO - Req was made | / 
+15.4.2024, 16:14:35 - DEBUG - Getting Boards 
+15.4.2024, 16:14:38 - INFO - Req was made | / 
+15.4.2024, 16:14:38 - DEBUG - Getting Boards 
+15.4.2024, 16:14:38 - INFO - Req was made | / 
+15.4.2024, 16:14:38 - DEBUG - Getting Boards 
+15.4.2024, 16:15:12 - INFO - server.js loaded... 
+15.4.2024, 16:15:12 - INFO - Server is running on port: 3040 
+15.4.2024, 16:15:20 - INFO - Req was made | / 
+15.4.2024, 16:15:20 - DEBUG - Getting Boards 
+15.4.2024, 16:15:20 - INFO - Req was made | / 
+15.4.2024, 16:15:20 - DEBUG - Getting Boards 
+15.4.2024, 16:15:34 - INFO - server.js loaded... 
+15.4.2024, 16:15:34 - INFO - Server is running on port: 3040 
+15.4.2024, 16:15:47 - INFO - Req was made | / 
+15.4.2024, 16:15:47 - DEBUG - Getting Boards 
+15.4.2024, 16:15:47 - INFO - Req was made | / 
+15.4.2024, 16:15:47 - DEBUG - Getting Boards 
+15.4.2024, 16:16:05 - DEBUG - Getting Boards 
+15.4.2024, 16:16:05 - INFO - Req was made | / 
+15.4.2024, 16:16:05 - INFO - Req was made | / 
+15.4.2024, 16:16:05 - DEBUG - Getting Boards 
+15.4.2024, 16:16:23 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:23 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:23 - INFO - Req was made | / 
+15.4.2024, 16:16:23 - DEBUG - Getting Boards 
+15.4.2024, 16:16:23 - INFO - Req was made | / 
+15.4.2024, 16:16:23 - DEBUG - Getting Boards 
+15.4.2024, 16:16:42 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:42 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:42 - INFO - Req was made | / 
+15.4.2024, 16:16:42 - DEBUG - Getting Boards 
+15.4.2024, 16:16:42 - INFO - Req was made | / 
+15.4.2024, 16:16:42 - DEBUG - Getting Boards 
+15.4.2024, 16:16:42 - INFO - Req was made | / 
+15.4.2024, 16:16:42 - DEBUG - Getting Boards 
+15.4.2024, 16:16:42 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:42 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:42 - INFO - Req was made | / 
+15.4.2024, 16:16:42 - DEBUG - Getting Boards 
+15.4.2024, 16:16:45 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:45 - INFO - Req was made | / 
+15.4.2024, 16:16:45 - DEBUG - Getting Boards 
+15.4.2024, 16:16:45 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:45 - INFO - Req was made | / 
+15.4.2024, 16:16:45 - DEBUG - Getting Boards 
+15.4.2024, 16:16:48 - INFO - Req was made | / 
+15.4.2024, 16:16:48 - DEBUG - Getting Boards 
+15.4.2024, 16:16:48 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:16:48 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:18:55 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:18:55 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:18:55 - DEBUG - Getting Boards 
+15.4.2024, 16:18:55 - INFO - Req was made | / 
+15.4.2024, 16:18:55 - INFO - Req was made | / 
+15.4.2024, 16:18:55 - DEBUG - Getting Boards 
+15.4.2024, 16:19:00 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:19:00 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:19:00 - INFO - Req was made | / 
+15.4.2024, 16:19:00 - DEBUG - Getting Boards 
+15.4.2024, 16:19:00 - INFO - Req was made | / 
+15.4.2024, 16:19:00 - DEBUG - Getting Boards 
+15.4.2024, 16:19:05 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:19:05 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:19:05 - INFO - Req was made | / 
+15.4.2024, 16:19:05 - DEBUG - Getting Boards 
+15.4.2024, 16:19:05 - INFO - Req was made | / 
+15.4.2024, 16:19:05 - DEBUG - Getting Boards 
+15.4.2024, 16:19:12 - INFO - server.js loaded... 
+15.4.2024, 16:19:12 - INFO - Server is running on port: 3040 
+15.4.2024, 16:19:15 - INFO - Req was made | / 
+15.4.2024, 16:19:15 - DEBUG - Getting Boards 
+15.4.2024, 16:19:15 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:19:15 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:19:15 - INFO - Req was made | / 
+15.4.2024, 16:19:15 - DEBUG - Getting Boards 
+15.4.2024, 16:20:51 - INFO - server.js loaded... 
+15.4.2024, 16:20:51 - INFO - Server is running on port: 3040 
+15.4.2024, 16:20:54 - DEBUG - Getting Boards 
+15.4.2024, 16:20:54 - INFO - Req was made | / 
+15.4.2024, 16:20:54 - INFO - Req was made | / 
+15.4.2024, 16:20:54 - DEBUG - Getting Boards 
+15.4.2024, 16:21:01 - INFO - Server is running on port: 3040 
+15.4.2024, 16:21:01 - INFO - server.js loaded... 
+15.4.2024, 16:23:05 - INFO - server.js loaded... 
+15.4.2024, 16:23:05 - INFO - Server is running on port: 3040 
+15.4.2024, 16:23:29 - INFO - server.js loaded... 
+15.4.2024, 16:23:29 - INFO - Server is running on port: 3040 
+15.4.2024, 16:23:38 - INFO - server.js loaded... 
+15.4.2024, 16:23:38 - INFO - Server is running on port: 3040 
+15.4.2024, 16:28:58 - INFO - Req was made | / 
+15.4.2024, 16:28:58 - DEBUG - Getting Boards 
+15.4.2024, 16:28:59 - INFO - Req was made | / 
+15.4.2024, 16:28:59 - DEBUG - Getting Boards 
+15.4.2024, 16:29:07 - INFO - Req was made | / 
+15.4.2024, 16:29:07 - DEBUG - Getting Boards 
+15.4.2024, 16:29:18 - INFO - Req was made | / 
+15.4.2024, 16:29:18 - DEBUG - Getting Boards 
+15.4.2024, 16:29:18 - INFO - Req was made | / 
+15.4.2024, 16:29:18 - DEBUG - Getting Boards 
+15.4.2024, 16:29:39 - INFO - Req was made | / 
+15.4.2024, 16:29:39 - DEBUG - Getting Boards 
+15.4.2024, 16:29:39 - INFO - Req was made | / 
+15.4.2024, 16:29:39 - DEBUG - Getting Boards 
+15.4.2024, 16:29:44 - DEBUG - Getting Boards 
+15.4.2024, 16:29:44 - INFO - Req was made | / 
+15.4.2024, 16:29:45 - DEBUG - Getting Boards 
+15.4.2024, 16:29:45 - INFO - Req was made | / 
+15.4.2024, 16:29:45 - INFO - Req was made | / 
+15.4.2024, 16:29:45 - DEBUG - Getting Boards 
+15.4.2024, 16:30:20 - DEBUG - Getting Boards 
+15.4.2024, 16:30:20 - INFO - Req was made | / 
+15.4.2024, 16:30:20 - INFO - Req was made | / 
+15.4.2024, 16:30:20 - DEBUG - Getting Boards 
+15.4.2024, 16:30:31 - INFO - Req was made | / 
+15.4.2024, 16:30:31 - DEBUG - Getting Boards 
+15.4.2024, 16:30:31 - INFO - Req was made | / 
+15.4.2024, 16:30:31 - DEBUG - Getting Boards 
+15.4.2024, 16:32:41 - INFO - Req was made | / 
+15.4.2024, 16:32:41 - DEBUG - Getting Boards 
+15.4.2024, 16:32:41 - INFO - Req was made | / 
+15.4.2024, 16:32:41 - DEBUG - Getting Boards 
+15.4.2024, 16:33:55 - INFO - Req was made | / 
+15.4.2024, 16:33:55 - DEBUG - Getting Boards 
+15.4.2024, 16:33:55 - INFO - Req was made | / 
+15.4.2024, 16:33:55 - DEBUG - Getting Boards 
+15.4.2024, 16:35:22 - INFO - server.js loaded... 
+15.4.2024, 16:35:22 - INFO - Server is running on port: 3040 
+15.4.2024, 16:35:24 - INFO - Req was made | / 
+15.4.2024, 16:35:24 - DEBUG - Getting Boards 
+15.4.2024, 16:35:24 - INFO - Req was made | / 
+15.4.2024, 16:35:24 - DEBUG - Getting Boards 
+15.4.2024, 16:35:38 - INFO - Req was made | / 
+15.4.2024, 16:35:38 - DEBUG - Getting Boards 
+15.4.2024, 16:35:38 - INFO - Req was made | / 
+15.4.2024, 16:35:38 - DEBUG - Getting Boards 
+15.4.2024, 16:38:10 - INFO - Req was made | / 
+15.4.2024, 16:38:10 - DEBUG - Getting Boards 
+15.4.2024, 16:38:10 - INFO - Req was made | / 
+15.4.2024, 16:38:10 - DEBUG - Getting Boards 
+15.4.2024, 16:39:04 - INFO - server.js loaded... 
+15.4.2024, 16:39:04 - INFO - Server is running on port: 3040 
+15.4.2024, 16:39:53 - INFO - server.js loaded... 
+15.4.2024, 16:39:53 - INFO - Server is running on port: 3040 
+15.4.2024, 16:40:48 - INFO - server.js loaded... 
+15.4.2024, 16:40:48 - INFO - Server is running on port: 3040 
+15.4.2024, 16:40:56 - INFO - Req was made | / 
+15.4.2024, 16:40:56 - DEBUG - Getting Boards 
+15.4.2024, 16:40:56 - INFO - Req was made | / 
+15.4.2024, 16:40:56 - DEBUG - Getting Boards 
+15.4.2024, 16:41:33 - INFO - server.js loaded... 
+15.4.2024, 16:41:33 - INFO - Server is running on port: 3040 
+15.4.2024, 16:41:36 - INFO - server.js loaded... 
+15.4.2024, 16:41:36 - INFO - Server is running on port: 3040 
+15.4.2024, 16:41:39 - INFO - Req was made | / 
+15.4.2024, 16:41:39 - DEBUG - Getting Boards 
+15.4.2024, 16:41:39 - INFO - Req was made | / 
+15.4.2024, 16:41:39 - DEBUG - Getting Boards 
+15.4.2024, 16:41:44 - INFO - Req was made | / 
+15.4.2024, 16:41:44 - DEBUG - Getting Boards 
+15.4.2024, 16:42:05 - INFO - server.js loaded... 
+15.4.2024, 16:42:05 - INFO - Server is running on port: 3040 
+15.4.2024, 16:42:24 - INFO - server.js loaded... 
+15.4.2024, 16:42:24 - INFO - Server is running on port: 3040 
+15.4.2024, 16:44:33 - INFO - Req was made | / 
+15.4.2024, 16:44:33 - DEBUG - Getting Boards 
+15.4.2024, 16:44:34 - DEBUG - Getting Boards 
+15.4.2024, 16:44:34 - INFO - Req was made | / 
+15.4.2024, 16:46:02 - INFO - server.js loaded... 
+15.4.2024, 16:46:02 - INFO - Server is running on port: 3040 
+15.4.2024, 16:46:17 - INFO - Req was made | / 
+15.4.2024, 16:46:17 - DEBUG - Getting Boards 
+15.4.2024, 16:46:17 - INFO - Req was made | / 
+15.4.2024, 16:46:17 - DEBUG - Getting Boards 
+15.4.2024, 16:46:26 - INFO - server.js loaded... 
+15.4.2024, 16:46:26 - INFO - Server is running on port: 3040 
+15.4.2024, 16:47:29 - INFO - server.js loaded... 
+15.4.2024, 16:47:29 - INFO - Server is running on port: 3040 
+15.4.2024, 16:47:47 - INFO - server.js loaded... 
+15.4.2024, 16:47:47 - INFO - Server is running on port: 3040 
+15.4.2024, 16:48:09 - INFO - server.js loaded... 
+15.4.2024, 16:48:09 - INFO - Server is running on port: 3040 
+15.4.2024, 16:48:34 - INFO - Req was made | / 
+15.4.2024, 16:48:34 - DEBUG - Getting Boards 
+15.4.2024, 16:48:34 - INFO - Req was made | / 
+15.4.2024, 16:48:34 - DEBUG - Getting Boards 
+15.4.2024, 16:51:43 - INFO - server.js loaded... 
+15.4.2024, 16:51:43 - INFO - Server is running on port: 3040 
+15.4.2024, 16:51:54 - INFO - server.js loaded... 
+15.4.2024, 16:51:55 - INFO - Server is running on port: 3040 
+15.4.2024, 16:52:01 - INFO - Req was made | / 
+15.4.2024, 16:52:01 - DEBUG - Getting Boards 
+15.4.2024, 16:52:01 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:52:01 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 16:52:01 - INFO - Req was made | / 
+15.4.2024, 16:52:01 - DEBUG - Getting Boards 
+15.4.2024, 16:54:22 - INFO - Req was made | / 
+15.4.2024, 16:54:22 - DEBUG - Getting Boards 
+15.4.2024, 16:54:22 - INFO - Req was made | / 
+15.4.2024, 16:54:22 - DEBUG - Getting Boards 
+15.4.2024, 17:04:27 - INFO - Req was made | / 
+15.4.2024, 17:04:27 - DEBUG - Getting Boards 
+15.4.2024, 17:04:28 - INFO - Req was made | / 
+15.4.2024, 17:04:28 - DEBUG - Getting Boards 
+15.4.2024, 17:05:04 - INFO - Req was made | / 
+15.4.2024, 17:05:04 - DEBUG - Getting Boards 
+15.4.2024, 17:05:04 - INFO - Req was made | / 
+15.4.2024, 17:05:04 - DEBUG - Getting Boards 
+15.4.2024, 17:08:43 - INFO - Req was made | / 
+15.4.2024, 17:08:43 - DEBUG - Getting Boards 
+15.4.2024, 17:08:57 - INFO - Req was made | / 
+15.4.2024, 17:08:57 - DEBUG - Getting Boards 
+15.4.2024, 17:46:13 - DEBUG - Getting Boards 
+15.4.2024, 17:46:13 - INFO - Req was made | / 
+15.4.2024, 17:46:13 - INFO - Req was made | / 
+15.4.2024, 17:46:13 - DEBUG - Getting Boards 
+15.4.2024, 17:49:01 - INFO - Req was made | / 
+15.4.2024, 17:49:01 - DEBUG - Getting Boards 
+15.4.2024, 17:49:01 - INFO - Req was made | / 
+15.4.2024, 17:49:01 - DEBUG - Getting Boards 
+15.4.2024, 17:49:40 - DEBUG - Getting Boards 
+15.4.2024, 17:49:40 - INFO - Req was made | / 
+15.4.2024, 17:49:40 - INFO - Req was made | / 
+15.4.2024, 17:49:40 - DEBUG - Getting Boards 
+15.4.2024, 17:51:04 - INFO - Req was made | / 
+15.4.2024, 17:51:04 - DEBUG - Getting Boards 
+15.4.2024, 17:51:04 - INFO - Req was made | / 
+15.4.2024, 17:51:04 - DEBUG - Getting Boards 
+15.4.2024, 17:51:04 - INFO - Req was made | / 
+15.4.2024, 17:51:04 - DEBUG - Getting Boards 
+15.4.2024, 17:51:42 - INFO - server.js loaded... 
+15.4.2024, 17:51:42 - INFO - Server is running on port: 3040 
+15.4.2024, 18:24:27 - INFO - server.js loaded... 
+15.4.2024, 18:24:27 - INFO - Server is running on port: 3040 
+15.4.2024, 18:24:58 - INFO - server.js loaded... 
+15.4.2024, 18:24:58 - INFO - Server is running on port: 3040 
+15.4.2024, 18:25:01 - INFO - server.js loaded... 
+15.4.2024, 18:25:02 - INFO - Server is running on port: 3040 
+15.4.2024, 18:25:24 - INFO - server.js loaded... 
+15.4.2024, 18:25:24 - INFO - Server is running on port: 3040 
+15.4.2024, 18:26:37 - INFO - Req was made | / 
+15.4.2024, 18:26:37 - DEBUG - Getting Boards 
+15.4.2024, 18:26:37 - INFO - Req was made | / 
+15.4.2024, 18:26:37 - DEBUG - Getting Boards 
+15.4.2024, 18:27:06 - INFO - Req was made | / 
+15.4.2024, 18:27:06 - DEBUG - Getting Boards 
+15.4.2024, 18:27:06 - INFO - Req was made | / 
+15.4.2024, 18:27:06 - DEBUG - Getting Boards 
+15.4.2024, 18:27:06 - INFO - Req was made | / 
+15.4.2024, 18:27:06 - DEBUG - Getting Boards 
+15.4.2024, 18:28:07 - INFO - Req was made | / 
+15.4.2024, 18:28:07 - DEBUG - Getting Boards 
+15.4.2024, 18:28:07 - INFO - Req was made | / 
+15.4.2024, 18:28:07 - DEBUG - Getting Boards 
+15.4.2024, 18:28:07 - INFO - Req was made | / 
+15.4.2024, 18:28:07 - DEBUG - Getting Boards 
+15.4.2024, 18:49:07 - INFO - Req was made | / 
+15.4.2024, 18:49:07 - DEBUG - Getting Boards 
+15.4.2024, 18:49:07 - DEBUG - Getting Boards 
+15.4.2024, 18:49:07 - INFO - Req was made | / 
+15.4.2024, 18:49:07 - INFO - Req was made | / 
+15.4.2024, 18:49:07 - DEBUG - Getting Boards 
+15.4.2024, 18:49:15 - INFO - Req was made | / 
+15.4.2024, 18:49:15 - DEBUG - Getting Boards 
+15.4.2024, 18:49:30 - INFO - Req was made | / 
+15.4.2024, 18:49:30 - DEBUG - Getting Boards 
+15.4.2024, 18:49:30 - INFO - Req was made | / 
+15.4.2024, 18:49:30 - DEBUG - Getting Boards 
+15.4.2024, 18:49:30 - INFO - Req was made | / 
+15.4.2024, 18:49:30 - DEBUG - Getting Boards 
+15.4.2024, 18:50:33 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 18:50:33 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 18:50:33 - DEBUG - Getting Boards 
+15.4.2024, 18:50:33 - INFO - Req was made | / 
+15.4.2024, 18:50:33 - INFO - Req was made | / 
+15.4.2024, 18:50:33 - DEBUG - Getting Boards 
+15.4.2024, 18:52:14 - INFO - server.js loaded... 
+15.4.2024, 18:52:14 - INFO - Server is running on port: 3040 
+15.4.2024, 18:52:17 - DEBUG - Getting Boards 
+15.4.2024, 18:52:17 - INFO - Req was made | / 
+15.4.2024, 18:52:17 - INFO - Req was made | / 
+15.4.2024, 18:52:17 - DEBUG - Getting Boards 
+15.4.2024, 18:52:17 - INFO - Req was made | / 
+15.4.2024, 18:52:17 - DEBUG - Getting Boards 
+15.4.2024, 18:52:20 - ERROR - cannot update board 661d317018c67483cf1afd6c | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+15.4.2024, 18:52:20 - ERROR - Failed to update board | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+15.4.2024, 18:52:35 - INFO - server.js loaded... 
+15.4.2024, 18:52:35 - INFO - Server is running on port: 3040 
+15.4.2024, 18:53:18 - INFO - server.js loaded... 
+15.4.2024, 18:53:18 - INFO - Server is running on port: 3040 
+15.4.2024, 18:53:20 - INFO - server.js loaded... 
+15.4.2024, 18:53:20 - INFO - Server is running on port: 3040 
+15.4.2024, 18:53:25 - INFO - Req was made | / 
+15.4.2024, 18:53:25 - DEBUG - Getting Boards 
+15.4.2024, 18:53:25 - INFO - Req was made | / 
+15.4.2024, 18:53:25 - DEBUG - Getting Boards 
+15.4.2024, 18:53:27 - ERROR - Failed to update board | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+15.4.2024, 18:53:27 - ERROR - cannot update board 661d317018c67483cf1afd6c | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+15.4.2024, 18:53:46 - INFO - server.js loaded... 
+15.4.2024, 18:53:46 - INFO - Server is running on port: 3040 
+15.4.2024, 18:57:13 - INFO - server.js loaded... 
+15.4.2024, 18:57:13 - INFO - Server is running on port: 3040 
+15.4.2024, 18:57:18 - INFO - Req was made | / 
+15.4.2024, 18:57:18 - DEBUG - Getting Boards 
+15.4.2024, 18:57:18 - INFO - Req was made | / 
+15.4.2024, 18:57:18 - DEBUG - Getting Boards 
+15.4.2024, 18:57:37 - INFO - Req was made | / 
+15.4.2024, 18:57:37 - DEBUG - Getting Boards 
+15.4.2024, 18:57:37 - INFO - Req was made | / 
+15.4.2024, 18:57:37 - DEBUG - Getting Boards 
+15.4.2024, 18:58:26 - INFO - Req was made | / 
+15.4.2024, 18:58:26 - DEBUG - Getting Boards 
+15.4.2024, 18:58:26 - INFO - Req was made | / 
+15.4.2024, 18:58:26 - DEBUG - Getting Boards 
+15.4.2024, 18:58:44 - INFO - Req was made | / 
+15.4.2024, 18:58:44 - DEBUG - Getting Boards 
+15.4.2024, 19:00:08 - INFO - Req was made | / 
+15.4.2024, 19:00:08 - DEBUG - Getting Boards 
+15.4.2024, 19:00:08 - DEBUG - Getting Boards 
+15.4.2024, 19:00:08 - INFO - Req was made | / 
+15.4.2024, 19:01:31 - INFO - Req was made | / 
+15.4.2024, 19:01:31 - DEBUG - Getting Boards 
+15.4.2024, 19:01:31 - INFO - Req was made | / 
+15.4.2024, 19:01:31 - DEBUG - Getting Boards 
+15.4.2024, 19:03:21 - DEBUG - Getting Boards 
+15.4.2024, 19:03:21 - INFO - Req was made | / 
+15.4.2024, 19:03:21 - INFO - Req was made | / 
+15.4.2024, 19:03:21 - DEBUG - Getting Boards 
+15.4.2024, 19:03:26 - INFO - Req was made | / 
+15.4.2024, 19:03:26 - DEBUG - Getting Boards 
+15.4.2024, 19:03:26 - INFO - Req was made | / 
+15.4.2024, 19:03:26 - DEBUG - Getting Boards 
+15.4.2024, 19:03:42 - INFO - Req was made | / 
+15.4.2024, 19:03:42 - DEBUG - Getting Boards 
+15.4.2024, 19:03:42 - INFO - Req was made | / 
+15.4.2024, 19:03:42 - DEBUG - Getting Boards 
+15.4.2024, 19:03:46 - INFO - Req was made | / 
+15.4.2024, 19:03:46 - DEBUG - Getting Boards 
+15.4.2024, 19:03:46 - INFO - Req was made | / 
+15.4.2024, 19:03:46 - DEBUG - Getting Boards 
+15.4.2024, 19:09:01 - DEBUG - Getting Boards 
+15.4.2024, 19:09:01 - INFO - Req was made | / 
+15.4.2024, 19:09:01 - INFO - Req was made | / 
+15.4.2024, 19:09:01 - DEBUG - Getting Boards 
+15.4.2024, 19:09:16 - INFO - Req was made | / 
+15.4.2024, 19:09:16 - DEBUG - Getting Boards 
+15.4.2024, 19:09:16 - INFO - Req was made | / 
+15.4.2024, 19:09:16 - DEBUG - Getting Boards 
+15.4.2024, 19:09:22 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:09:22 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:09:28 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:09:28 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:10:23 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:10:23 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:11:20 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:11:20 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:13:17 - INFO - Req was made | / 
+15.4.2024, 19:13:17 - DEBUG - Getting Boards 
+15.4.2024, 19:13:17 - INFO - Req was made | / 
+15.4.2024, 19:13:17 - DEBUG - Getting Boards 
+15.4.2024, 19:13:50 - INFO - Req was made | / 
+15.4.2024, 19:13:50 - DEBUG - Getting Boards 
+15.4.2024, 19:13:50 - INFO - Req was made | / 
+15.4.2024, 19:13:50 - DEBUG - Getting Boards 
+15.4.2024, 19:14:18 - INFO - Req was made | / 
+15.4.2024, 19:14:18 - DEBUG - Getting Boards 
+15.4.2024, 19:14:18 - DEBUG - Getting Boards 
+15.4.2024, 19:14:18 - INFO - Req was made | / 
+15.4.2024, 19:14:40 - INFO - Req was made | / 
+15.4.2024, 19:14:40 - DEBUG - Getting Boards 
+15.4.2024, 19:14:40 - INFO - Req was made | / 
+15.4.2024, 19:14:40 - DEBUG - Getting Boards 
+15.4.2024, 19:15:07 - DEBUG - Getting Boards 
+15.4.2024, 19:15:07 - INFO - Req was made | / 
+15.4.2024, 19:15:07 - INFO - Req was made | / 
+15.4.2024, 19:15:07 - DEBUG - Getting Boards 
+15.4.2024, 19:15:14 - INFO - Req was made | / 
+15.4.2024, 19:15:14 - DEBUG - Getting Boards 
+15.4.2024, 19:15:14 - INFO - Req was made | / 
+15.4.2024, 19:15:14 - DEBUG - Getting Boards 
+15.4.2024, 19:15:29 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:15:29 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:15:32 - INFO - Req was made | / 
+15.4.2024, 19:15:32 - DEBUG - Getting Boards 
+15.4.2024, 19:15:32 - INFO - Req was made | / 
+15.4.2024, 19:15:32 - DEBUG - Getting Boards 
+15.4.2024, 19:16:32 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:32 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:33 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:33 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:33 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:33 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:34 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:34 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:34 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:34 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:35 - ERROR - while finding board undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:35 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:16:37 - INFO - Req was made | / 
+15.4.2024, 19:16:37 - DEBUG - Getting Boards 
+15.4.2024, 19:16:37 - INFO - Req was made | / 
+15.4.2024, 19:16:37 - DEBUG - Getting Boards 
+15.4.2024, 19:17:40 - INFO - Req was made | / 
+15.4.2024, 19:17:40 - DEBUG - Getting Boards 
+15.4.2024, 19:17:40 - INFO - Req was made | / 
+15.4.2024, 19:17:40 - DEBUG - Getting Boards 
+15.4.2024, 19:19:23 - INFO - Req was made | / 
+15.4.2024, 19:19:23 - DEBUG - Getting Boards 
+15.4.2024, 19:19:23 - INFO - Req was made | / 
+15.4.2024, 19:19:23 - DEBUG - Getting Boards 
+15.4.2024, 19:19:33 - INFO - Req was made | / 
+15.4.2024, 19:19:33 - DEBUG - Getting Boards 
+15.4.2024, 19:19:33 - INFO - Req was made | / 
+15.4.2024, 19:19:33 - DEBUG - Getting Boards 
+15.4.2024, 19:20:07 - INFO - Req was made | / 
+15.4.2024, 19:20:07 - DEBUG - Getting Boards 
+15.4.2024, 19:20:07 - INFO - Req was made | / 
+15.4.2024, 19:20:07 - DEBUG - Getting Boards 
+15.4.2024, 19:20:39 - INFO - Req was made | / 
+15.4.2024, 19:20:39 - DEBUG - Getting Boards 
+15.4.2024, 19:20:39 - INFO - Req was made | / 
+15.4.2024, 19:20:39 - DEBUG - Getting Boards 
+15.4.2024, 19:20:52 - INFO - Req was made | / 
+15.4.2024, 19:20:52 - DEBUG - Getting Boards 
+15.4.2024, 19:20:52 - INFO - Req was made | / 
+15.4.2024, 19:20:52 - DEBUG - Getting Boards 
+15.4.2024, 19:21:09 - INFO - Req was made | / 
+15.4.2024, 19:21:09 - DEBUG - Getting Boards 
+15.4.2024, 19:21:09 - INFO - Req was made | / 
+15.4.2024, 19:21:09 - DEBUG - Getting Boards 
+15.4.2024, 19:21:29 - INFO - Req was made | / 
+15.4.2024, 19:21:29 - DEBUG - Getting Boards 
+15.4.2024, 19:21:29 - INFO - Req was made | / 
+15.4.2024, 19:21:29 - DEBUG - Getting Boards 
+15.4.2024, 19:21:45 - INFO - Req was made | / 
+15.4.2024, 19:21:45 - DEBUG - Getting Boards 
+15.4.2024, 19:21:45 - INFO - Req was made | / 
+15.4.2024, 19:21:45 - DEBUG - Getting Boards 
+15.4.2024, 19:26:31 - DEBUG - Getting Boards 
+15.4.2024, 19:26:31 - INFO - Req was made | / 
+15.4.2024, 19:26:31 - INFO - Req was made | / 
+15.4.2024, 19:26:31 - DEBUG - Getting Boards 
+15.4.2024, 19:26:39 - INFO - Req was made | / 
+15.4.2024, 19:26:39 - DEBUG - Getting Boards 
+15.4.2024, 19:26:39 - INFO - Req was made | / 
+15.4.2024, 19:26:39 - DEBUG - Getting Boards 
+15.4.2024, 19:26:43 - INFO - Req was made | / 
+15.4.2024, 19:26:43 - DEBUG - Getting Boards 
+15.4.2024, 19:26:43 - INFO - Req was made | / 
+15.4.2024, 19:26:43 - DEBUG - Getting Boards 
+15.4.2024, 19:26:50 - INFO - Req was made | / 
+15.4.2024, 19:26:50 - DEBUG - Getting Boards 
+15.4.2024, 19:26:50 - INFO - Req was made | / 
+15.4.2024, 19:26:50 - DEBUG - Getting Boards 
+15.4.2024, 19:27:24 - INFO - Req was made | / 
+15.4.2024, 19:27:24 - DEBUG - Getting Boards 
+15.4.2024, 19:27:24 - INFO - Req was made | / 
+15.4.2024, 19:27:24 - DEBUG - Getting Boards 
+15.4.2024, 19:29:37 - DEBUG - Getting Boards 
+15.4.2024, 19:29:37 - INFO - Req was made | / 
+15.4.2024, 19:29:37 - INFO - Req was made | / 
+15.4.2024, 19:29:37 - DEBUG - Getting Boards 
+15.4.2024, 19:30:12 - INFO - Req was made | / 
+15.4.2024, 19:30:12 - DEBUG - Getting Boards 
+15.4.2024, 19:30:52 - INFO - Req was made | / 
+15.4.2024, 19:30:52 - DEBUG - Getting Boards 
+15.4.2024, 19:30:52 - INFO - Req was made | / 
+15.4.2024, 19:30:52 - DEBUG - Getting Boards 
+15.4.2024, 19:30:57 - INFO - Req was made | / 
+15.4.2024, 19:30:57 - DEBUG - Getting Boards 
+15.4.2024, 19:30:57 - INFO - Req was made | / 
+15.4.2024, 19:30:57 - DEBUG - Getting Boards 

@@ -36,6 +36,7 @@ async function getById(boardId) {
     try {
         const collection = await dbService.getCollection('boards')
         var board = collection.findOne({ _id: new ObjectId(boardId) })
+        // var board = collection.findOne({ _id: (boardId) })
         // board.createdAt = new Object(board._id.getTimestamp())
         return board
     } catch (err) {
@@ -66,20 +67,36 @@ async function add(board) {
     }
 }
 
+// async function update(board) {
+//     try {
+//         // const boardToSave = {
+//         //     name: board.name,
+//         //     price: board.price,
+//         //     labels: board.labels,
+//         //     reviews: board.reviews,
+//         // }
+//         const boardToSave = board
+//         const collection = await dbService.getCollection('boards')
+//         await collection.updateOne({ _id: new ObjectId(board._id) }, { $set: boardToSave })
+//         return boardToSave
+//     } catch (err) {
+//         logger.error(`cannot update board ${board._id}`, err)
+//         throw err
+//     }
+// }
+
 async function update(board) {
     try {
-        const boardToSave = {
-            name: board.name,
-            price: board.price,
-            labels: board.labels,
-            reviews: board.reviews,
-        }
-        const collection = await dbService.getCollection('boards')
-        await collection.updateOne({ _id: new ObjectId(board._id) }, { $set: boardToSave })
-        return board
+        const boardToSave = {...board}; // Clone the board object
+        delete boardToSave._id; // Remove the _id property to prevent attempts to update it
+
+        const collection = await dbService.getCollection('boards');
+        await collection.updateOne({ _id: new ObjectId(board._id) }, { $set: boardToSave });
+
+        return boardToSave; // Return the updated object (without _id modifications)
     } catch (err) {
-        logger.error(`cannot update board ${board._id}`, err)
-        throw err
+        logger.error(`cannot update board ${board._id}`, err);
+        throw err;
     }
 }
 

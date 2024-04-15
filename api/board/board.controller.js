@@ -34,6 +34,7 @@ export async function getBoards(req, res) {
 export async function getBoardById(req, res) {
     try {
         const boardId = req.params.id
+        console.log(boardId);
         const board = await boardService.getById(boardId)
         res.json(board)
     } catch (err) {
@@ -44,16 +45,16 @@ export async function getBoardById(req, res) {
 }
 
 export async function addBoard(req, res) {
-    const { loggedinUser } = req
+    // const { loggedinUser } = req
     // console.log(req);
     // console.log(loggedinUser, '🥰');
     // const {creator, inStock, price} = req.body
 
     try {
         const board = req.body
-        board.creator = loggedinUser
-        board.inStock = true
-        board.price = parseInt(board.price) || 0
+        // board.createdBy = loggedinUser
+        // board.inStock = true
+        // board.price = parseInt(board.price) || 0
         // console.log(typeof(board.price), board.price, '😍');
         const addedBoard = await boardService.add(board)
         res.json(addedBoard)
@@ -68,7 +69,7 @@ export async function updateBoard(req, res) {
     try {
         const board = req.body
         console.log(board);
-        board.price = parseInt(board.price) || 0
+        // board.price = parseInt(board.price) || 0
 
         const updatedBoard = await boardService.update(board)
         res.json(updatedBoard)
