@@ -7360,3 +7360,45 @@
 15.4.2024, 20:19:30 - DEBUG - Getting Boards 
 15.4.2024, 20:19:46 - INFO - server.js loaded... 
 15.4.2024, 20:19:46 - INFO - Server is running on port: 3040 
+15.4.2024, 20:26:19 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 20:26:19 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 20:26:19 - INFO - Req was made | / 
+15.4.2024, 20:26:19 - DEBUG - Getting Boards 
+15.4.2024, 20:26:19 - INFO - Req was made | / 
+15.4.2024, 20:26:19 - DEBUG - Getting Boards 
+15.4.2024, 20:28:45 - INFO - server.js loaded... 
+15.4.2024, 20:28:45 - INFO - Server is running on port: 3040 
+15.4.2024, 20:29:27 - INFO - server.js loaded... 
+15.4.2024, 20:29:27 - INFO - Server is running on port: 3040 
+15.4.2024, 20:29:36 - INFO - Req was made | / 
+15.4.2024, 20:29:36 - DEBUG - Getting Boards 
+15.4.2024, 20:29:36 - INFO - Req was made | / 
+15.4.2024, 20:29:36 - DEBUG - Getting Boards 
+15.4.2024, 20:29:36 - INFO - Req was made | / 
+15.4.2024, 20:29:36 - DEBUG - Getting Boards 
+15.4.2024, 20:44:12 - INFO - Req was made | / 
+15.4.2024, 20:44:12 - DEBUG - Getting Boards 
+15.4.2024, 20:44:12 - INFO - Req was made | / 
+15.4.2024, 20:44:12 - DEBUG - Getting Boards 
+15.4.2024, 20:45:10 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 20:45:10 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 20:45:10 - INFO - Req was made | / 
+15.4.2024, 20:45:10 - DEBUG - Getting Boards 
+15.4.2024, 20:45:10 - INFO - Req was made | / 
+15.4.2024, 20:45:10 - DEBUG - Getting Boards 
+15.4.2024, 20:51:33 - INFO - Req was made | / 
+15.4.2024, 20:51:33 - DEBUG - Getting Boards 
+15.4.2024, 20:51:33 - INFO - Req was made | / 
+15.4.2024, 20:51:33 - DEBUG - Getting Boards 
+15.4.2024, 20:52:21 - INFO - Req was made | / 
+15.4.2024, 20:52:21 - DEBUG - Getting Boards 
+15.4.2024, 20:52:21 - INFO - Req was made | / 
+15.4.2024, 20:52:21 - DEBUG - Getting Boards 
+15.4.2024, 20:52:21 - INFO - Req was made | / 
+15.4.2024, 20:52:21 - DEBUG - Getting Boards 
+15.4.2024, 20:53:11 - INFO - server.js loaded... 
+15.4.2024, 20:53:11 - INFO - Server is running on port: 3040 
+15.4.2024, 20:53:11 - INFO - server.js loaded... 
+15.4.2024, 20:53:11 - INFO - Server is running on port: 3040 
+15.4.2024, 20:53:37 - INFO - server.js loaded... 
+15.4.2024, 20:53:37 - INFO - Server is running on port: 3040 
