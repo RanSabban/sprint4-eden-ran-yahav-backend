@@ -4,8 +4,8 @@ import { logger } from '../../services/logger.service.js'
 export async function getBoards(req, res) {
     console.log(req.query);
     try {
-        const filterBy = req.query.params.filterBy
-        const sortBy = req.query.params.sortBy
+        // const filterBy = req.query.params.filterBy
+        // const sortBy = req.query.params.sortBy
 
         // const filterBy = {
         //     txt: req.query.params.filterBy.txt || '',
@@ -20,8 +20,10 @@ export async function getBoards(req, res) {
         // }
 
 
-        logger.debug('Getting Boards', filterBy)
-        const boards = await boardService.query(filterBy, sortBy)
+        // logger.debug('Getting Boards', filterBy)
+        logger.debug('Getting Boards')
+        // const boards = await boardService.query(filterBy, sortBy)
+        const boards = await boardService.query()
         res.json(boards)
     } catch (err) {
         logger.error('Failed to get boards', err)

@@ -1,6 +1,7 @@
 export default {
-    dbURL: process.env.MONGO_URL || 'mongodb+srv://eden:eden123@cluster0.0hasbq0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    dbName : process.env.DB_NAME || 'toyDB'
+    dbURL: 'mongodb+srv://sabbanran:ran123@cluster2.4yz9axr.mongodb.net/?retryWrites=true&w=majority&appName=cluster2',
+    // dbURL: process.env.MONGO_URL || 'mongodb+srv://sabbanran:ran123@cluster2.4yz9axr.mongodb.net/?retryWrites=true&w=majority&appName=cluster2',
+    dbName : process.env.DB_NAME || 'oneday'
   }
   
   

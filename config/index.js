@@ -5,7 +5,9 @@ export var config
 
 if (process.env.NODE_ENV === 'production') {
     config = configProd
+    console.log('here');
 } else {
     config = configDev
+    console.log('here');
 }
 config.isGuestMode = true

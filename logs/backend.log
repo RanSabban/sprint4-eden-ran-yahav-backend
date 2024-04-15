@@ -6768,3 +6768,45 @@
 3.4.2024, 9:12:37 - INFO - Setting socket.userId = 660595e371722614508c6800 for socket [id: yX343esOpbgM5M9_AAAn] 
 14.4.2024, 19:01:28 - INFO - server.js loaded... 
 14.4.2024, 19:01:28 - INFO - Server is running on port: 3040 
+15.4.2024, 0:52:48 - INFO - server.js loaded... 
+15.4.2024, 0:52:48 - INFO - Server is running on port: 3040 
+15.4.2024, 0:53:26 - INFO - Req was made | / 
+15.4.2024, 0:53:26 - DEBUG - Getting Boards 
+15.4.2024, 0:53:26 - ERROR - cannot find boards | ReferenceError: criteria is not defined 
+15.4.2024, 0:53:26 - ERROR - Failed to get boards | ReferenceError: criteria is not defined 
+15.4.2024, 0:54:27 - INFO - Req was made | / 
+15.4.2024, 0:54:27 - DEBUG - Getting Boards 
+15.4.2024, 0:54:27 - ERROR - cannot find boards | ReferenceError: criteria is not defined 
+15.4.2024, 0:54:27 - ERROR - Failed to get boards | ReferenceError: criteria is not defined 
+15.4.2024, 0:54:38 - INFO - server.js loaded... 
+15.4.2024, 0:54:38 - INFO - Server is running on port: 3040 
+15.4.2024, 0:54:41 - INFO - Req was made | / 
+15.4.2024, 0:54:41 - DEBUG - Getting Boards 
+15.4.2024, 0:54:41 - ERROR - cannot find boards | ReferenceError: boards is not defined 
+15.4.2024, 0:54:41 - ERROR - Failed to get boards | ReferenceError: boards is not defined 
+15.4.2024, 0:55:19 - INFO - server.js loaded... 
+15.4.2024, 0:55:19 - INFO - Server is running on port: 3040 
+15.4.2024, 0:55:21 - INFO - Req was made | / 
+15.4.2024, 0:55:21 - DEBUG - Getting Boards 
+15.4.2024, 0:55:21 - ERROR - cannot find boards | TypeError: collection.toArray is not a function 
+15.4.2024, 0:55:21 - ERROR - Failed to get boards | TypeError: collection.toArray is not a function 
+15.4.2024, 0:55:49 - INFO - server.js loaded... 
+15.4.2024, 0:55:49 - INFO - Server is running on port: 3040 
+15.4.2024, 0:55:52 - INFO - Req was made | / 
+15.4.2024, 0:55:52 - DEBUG - Getting Boards 
+15.4.2024, 0:55:52 - ERROR - cannot find boards | TypeError: collection.toArray is not a function 
+15.4.2024, 0:55:52 - ERROR - Failed to get boards | TypeError: collection.toArray is not a function 
+15.4.2024, 1:00:41 - INFO - Req was made | / 
+15.4.2024, 1:00:41 - DEBUG - Getting Boards 
+15.4.2024, 1:00:41 - ERROR - cannot find boards | TypeError: collection.toArray is not a function 
+15.4.2024, 1:00:41 - ERROR - Failed to get boards | TypeError: collection.toArray is not a function 
+15.4.2024, 1:04:51 - INFO - server.js loaded... 
+15.4.2024, 1:04:51 - INFO - Server is running on port: 3040 
+15.4.2024, 1:05:02 - INFO - Req was made | / 
+15.4.2024, 1:05:02 - DEBUG - Getting Boards 
+15.4.2024, 1:05:42 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 1:05:42 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 1:05:47 - INFO - server.js loaded... 
+15.4.2024, 1:05:47 - INFO - Server is running on port: 3040 
+15.4.2024, 1:05:49 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 1:05:49 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 

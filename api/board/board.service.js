@@ -8,25 +8,24 @@ import { utilService } from '../../services/util.service.js'
 async function query(filterBy = { txt: '', inStock: '' }, sortBy = { by: '', asc: 1 }) {
     try {
         // console.log('sortBy', sortBy);
-        let criteria = {
-            name: { $regex: filterBy.txt, $options: 'i' }
-        };
+        // let criteria = {
+        //     name: { $regex: filterBy.txt, $options: 'i' }
+        // };
 
-        if (filterBy.inStock !== 'all' && filterBy.inStock !== 'all' && filterBy.inStock !== '') {
-            criteria.inStock = { $eq: JSON.parse(filterBy.inStock) };
-            console.log('criteria.inStock', criteria.inStock);
-        }
+        // if (filterBy.inStock !== 'all' && filterBy.inStock !== 'all' && filterBy.inStock !== '') {
+        //     criteria.inStock = { $eq: JSON.parse(filterBy.inStock) };
+        //     console.log('criteria.inStock', criteria.inStock);
+        // }
 
-        if (filterBy.labels && filterBy.labels.length > 0) {
-            criteria.labels = { $all: filterBy.labels };
-        }
+        // if (filterBy.labels && filterBy.labels.length > 0) {
+        //     criteria.labels = { $all: filterBy.labels };
+        // }
 
-        const collection = await dbService.getCollection('board')
-        const sortOption = { [sortBy.type || 'name']: +sortBy.asc || 1 };
+        const collection = await dbService.getCollection('boards');
 
-        const boards = await collection.find(criteria).sort(sortOption).toArray()
-
-        return boards
+        // Fetching all documents in the collection and converting them to an array
+        const boards = await collection.find({}).toArray();
+        return boards;
     } catch (err) {
         logger.error('cannot find boards', err)
         throw err
@@ -35,7 +34,7 @@ async function query(filterBy = { txt: '', inStock: '' }, sortBy = { by: '', asc
 
 async function getById(boardId) {
     try {
-        const collection = await dbService.getCollection('board')
+        const collection = await dbService.getCollection('boards')
         var board = collection.findOne({ _id: new ObjectId(boardId) })
         // board.createdAt = new Object(board._id.getTimestamp())
         return board
@@ -47,7 +46,7 @@ async function getById(boardId) {
 
 async function remove(boardId) {
     try {
-        const collection = await dbService.getCollection('board')
+        const collection = await dbService.getCollection('boards')
         await collection.deleteOne({ _id: new ObjectId(boardId) })
     } catch (err) {
         logger.error(`cannot remove board ${boardId}`, err)
@@ -58,7 +57,7 @@ async function remove(boardId) {
 async function add(board) {
     try {
         console.log(board);
-        const collection = await dbService.getCollection('board')
+        const collection = await dbService.getCollection('boards')
         await collection.insertOne(board)
         return board
     } catch (err) {
@@ -75,7 +74,7 @@ async function update(board) {
             labels: board.labels,
             reviews: board.reviews,
         }
-        const collection = await dbService.getCollection('board')
+        const collection = await dbService.getCollection('boards')
         await collection.updateOne({ _id: new ObjectId(board._id) }, { $set: boardToSave })
         return board
     } catch (err) {
@@ -87,7 +86,7 @@ async function update(board) {
 async function addBoardMsg(boardId, msg) {
     try {
         msg.id = utilService.makeId()
-        const collection = await dbService.getCollection('board')
+        const collection = await dbService.getCollection('boards')
         await collection.updateOne({ _id: new ObjectId(boardId) }, { $push: { msgs: msg } })
         return msg
     } catch (err) {
@@ -98,7 +97,7 @@ async function addBoardMsg(boardId, msg) {
 
 async function removeBoardMsg(boardId, msgId) {
     try {
-        const collection = await dbService.getCollection('board')
+        const collection = await dbService.getCollection('boards')
         await collection.updateOne({ _id: new ObjectId(boardId) }, { $pull: { msgs: { id: msgId } } })
         return msgId
     } catch (err) {
