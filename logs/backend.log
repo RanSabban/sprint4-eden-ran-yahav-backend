@@ -10206,3 +10206,5 @@
 16.4.2024, 20:41:12 - DEBUG - Getting Boards (userId: 661db08a99de42c67ce0b096)
 16.4.2024, 20:41:12 - INFO - Req was made | / (userId: 661db08a99de42c67ce0b096)
 16.4.2024, 20:41:12 - DEBUG - Getting Boards (userId: 661db08a99de42c67ce0b096)
+16.4.2024, 20:42:20 - INFO - server.js loaded... 
+16.4.2024, 20:42:20 - INFO - Server is running on port: 3040 
