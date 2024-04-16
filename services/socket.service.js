@@ -43,6 +43,15 @@ export function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
+        socket.on('join-board', (boardId) => {
+            logger.info(`Socket ${socket.id} requesting to join board: ${boardId}`)
+            socket.join(boardId);
+            logger.info(`Socket ${socket.id} joined board: ${boardId}`)
+        })
+        socket.on('board-updated', (board) => {
+            logger.info('board from board updated socket', board);
+            gIo.to(board._id).emit('board-updated',board)
+        })
 
     })
 }
