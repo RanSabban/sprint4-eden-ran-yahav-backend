@@ -20,7 +20,8 @@ export async function login(req, res) {
 
 export async function signup(req, res) {
     try {
-        const { username, password, fullname } = req.body
+        const { username, password, fullname } = JSON.parse(req.body)
+        logger.debug('body from auth controller',req.body);
         
         // IMPORTANT!!! 
         // Never write passwords to log file!!!

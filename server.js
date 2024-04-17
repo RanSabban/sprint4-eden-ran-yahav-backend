@@ -1,9 +1,9 @@
 import http, { Server } from 'http'
 // import { http } from 'follow-redirects'
-import express  from 'express'
+import express from 'express'
 import path, { dirname } from 'path'
 import cookieParser from 'cookie-parser'
-import cors  from 'cors'
+import cors from 'cors'
 import { fileURLToPath } from 'url'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -27,7 +27,7 @@ if (process.env.NODE_ENV === 'production') {
     // Configuring CORS
     const corsOptions = {
         // Make sure origin contains the url your frontend is running on
-        origin: ['http://127.0.0.1:5173', 'http://localhost:5173','http://127.0.0.1:3000', 'http://localhost:3000'],
+        origin: ['http://127.0.0.1:5173', 'http://localhost:5173', 'http://localhost:5174', 'http://127.0.0.1:3000', 'http://localhost:3000'],
         credentials: true
     }
     app.use(cors(corsOptions))
@@ -59,7 +59,7 @@ setupSocketAPI(server)
 //     res.sendFile(path.resolve('public/index.html'))
 // })
 app.get('/**', (req, res) => {
-    res.sendFile(join(__dirname,'public/index.html'))
+    res.sendFile(join(__dirname, 'public/index.html'))
 })
 
 const port = process.env.PORT || 3040

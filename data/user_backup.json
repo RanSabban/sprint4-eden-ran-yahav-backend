@@ -1,55 +1,37 @@
 [
     {
-        "fullname": "Stav Yaar",
-        "username": "stu",
+        "fullname": "Eden Gilady",
+        "username": "edeng",
         "password": "1234",
         "isAdmin": false,
         "createdAt": 1599074622555
     },
     {
-        "fullname": "Ricky Lake",
-        "username": "rick",
+        "fullname": "Ran Sabban",
+        "username": "rans",
         "password": "1234",
         "isAdmin": false,
         "createdAt": 1599073368512
     },
     {
-        "fullname": "Puki Pa",
-        "username": "puki",
+        "fullname": "Yahav Ganon",
+        "username": "yahav",
         "password": "secret",
-        "isAdmin": true,
+        "isAdmin": false,
         "createdAt": 1598948593211
     },
     {
-        "fullname": "Stav Yaar Bar",
-        "username": "stav",
-        "password": "secret",
+        "fullname": "Guest",
+        "username": "guest",
+        "password": "guest",
+        "isAdmin": false,
+        "createdAt": 1598948593211
+    },
+    {
+        "fullname": "Admin",
+        "username": "admin",
+        "password": "admin",
         "isAdmin": true,
-        "createdAt": 1598928573211
-    },
-    {
-        "username": "wewe",
-        "password": "123",
-        "fullname": "eden"
-    },
-    {
-        "username": "opopo",
-        "password": "popo",
-        "fullname": "popo"
-    },
-    {
-        "username": "Benenene",
-        "password": "bolbol",
-        "fullname": "Ben"
-    },
-    {
-        "username": "kaka",
-        "password": "9090",
-        "fullname": "BEnene"
-    },
-    {
-        "username": "koskos",
-        "password": "123",
-        "fullname": "Kosta"
+        "createdAt": 1598948593212
     }
 ]
