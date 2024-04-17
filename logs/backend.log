@@ -12817,3 +12817,9 @@
 17.4.2024, 15:00:32 - INFO - Socket BrJfWqogWa_twRmsAAAh requesting to join board: 661d317018c67483cf1afd6c 
 17.4.2024, 15:00:32 - INFO - Socket disconnected [id: undefined] 
 17.4.2024, 15:00:49 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 15:13:58 - INFO - server.js loaded... 
+17.4.2024, 15:13:58 - INFO - Server is running on port: 3040 
+17.4.2024, 15:13:59 - INFO - New connected socket [id: APafH-6fKVmEovaiAAAB] 
+17.4.2024, 15:14:00 - INFO - New connected socket [id: PbPxu4wcOkmWBGThAAAF] 
+17.4.2024, 15:14:00 - INFO - New connected socket [id: Jpp3aWw79oYzfwMBAAAG] 
+17.4.2024, 15:14:00 - INFO - New connected socket [id: Lfar4DvxNRN-J59KAAAH] 
