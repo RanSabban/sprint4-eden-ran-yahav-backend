@@ -52,7 +52,6 @@ export function setupSocketAPI(http) {
             logger.info('board from board updated socket', board);
             gIo.to(board._id).emit('board-updated',board)
         })
-
     })
 }
 
