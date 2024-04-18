@@ -20,14 +20,14 @@ export async function login(req, res) {
 
 export async function signup(req, res) {
     try {
-        const { username, password, fullname } = JSON.parse(req.body)
-        logger.debug('body from auth controller',req.body);
+        const { username, password, fullname, imgUrl } = req.body
+        // logger.debug('body from auth controller',req.body);
         
         // IMPORTANT!!! 
         // Never write passwords to log file!!!
         // logger.debug(fullname + ', ' + username + ', ' + password)
         
-        const account = await authService.signup(username, password, fullname)
+        const account = await authService.signup(username, password, fullname, imgUrl)
         logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
         
         const user = await authService.login(username, password)
@@ -37,7 +37,7 @@ export async function signup(req, res) {
         res.json(user)
     } catch (err) {
         logger.error('Failed to signup ' + err)
-        res.status(500).send({ err: 'Failed to signup' })
+        res.status(500).send({ err: 'Failed to signup'})
     }
 }
 
