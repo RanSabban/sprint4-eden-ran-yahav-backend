@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6620611c7c155e8dc9d15210"
+  },
+  "username": "admin",
+  "password": "$2b$10$v5e4gSa5l8yR7ZHoX0RBYuJGYPZVqDvYVqE19JJOJDr/TrppgxdUW",
+  "fullname": "Admin",
+  "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+  "createdAt": {
+    "$numberLong": "1713398044465"
+  },
+  "isAdmin": true
+},
+{
+  "_id": {
+    "$oid": "662061387c155e8dc9d15211"
+  },
+  "username": "edeng",
+  "password": "$2b$10$eZBiXUJyj1byAUKXl376wey8/K4BxEn3frmEZuf4xFCykf/xEpu96",
+  "fullname": "Eden Gilady",
+  "imgUrl": "https://files.monday.com/euc1/photos/58211317/thumb/58211317-user_photo_2024_04_03_12_43_15.png?1712148195",
+  "createdAt": {
+    "$numberLong": "1713398072642"
+  },
+  "isAdmin": false
+},
+{
+  "_id": {
+    "$oid": "6620614c7c155e8dc9d15212"
+  },
+  "username": "rans",
+  "password": "$2b$10$4U89OoKHmXs4yWKU1R4IR.iFkxL71xB54ueShKxVOWUTBvZUrgHTC",
+  "fullname": "Ran Sabban",
+  "imgUrl": "https://files.monday.com/euc1/photos/58193035/small/58193035-user_photo_2024_04_04_15_17_09.png?1712243830",
+  "createdAt": {
+    "$numberLong": "1713398092170"
+  },
+  "isAdmin": false
+},
+{
+  "_id": {
+    "$oid": "662061567c155e8dc9d15213"
+  },
+  "username": "yahavg",
+  "password": "$2b$10$ahdckDzxrLyyf0NLG3sagug1ii0LbX3T931DmP5n26di6nfGwKQDW",
+  "fullname": "Yahav Ganon",
+  "imgUrl": "https://files.monday.com/euc1/photos/58211325/thumb_small/58211325-user_photo_2024_04_03_12_41_20.png?1712148081",
+  "createdAt": {
+    "$numberLong": "1713398102367"
+  },
+  "isAdmin": false
+},
+{
+  "_id": {
+    "$oid": "662061637c155e8dc9d15214"
+  },
+  "username": "guest",
+  "password": "$2b$10$EkXk8wMoj3aKVznz7IOLfeuqyP1vzMvcrOkalv7vIbZjhCLxofZ3K",
+  "fullname": "Guest",
+  "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+  "createdAt": {
+    "$numberLong": "1713398115430"
+  },
+  "isAdmin": false
+}]
