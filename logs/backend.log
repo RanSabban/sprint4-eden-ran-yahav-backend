@@ -12823,3 +12823,411 @@
 17.4.2024, 15:14:00 - INFO - New connected socket [id: PbPxu4wcOkmWBGThAAAF] 
 17.4.2024, 15:14:00 - INFO - New connected socket [id: Jpp3aWw79oYzfwMBAAAG] 
 17.4.2024, 15:14:00 - INFO - New connected socket [id: Lfar4DvxNRN-J59KAAAH] 
+17.4.2024, 18:34:25 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 18:34:25 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 18:34:25 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:34:25 - INFO - New connected socket [id: 7V00aOYm1eGu0tQTAAAD] 
+17.4.2024, 18:39:58 - DEBUG - Getting Boards 
+17.4.2024, 18:39:58 - INFO - Req was made | / 
+17.4.2024, 18:39:58 - INFO - Req was made | / 
+17.4.2024, 18:39:58 - DEBUG - Getting Boards 
+17.4.2024, 18:39:58 - INFO - Req was made | / 
+17.4.2024, 18:39:58 - DEBUG - Getting Boards 
+17.4.2024, 18:59:23 - INFO - server.js loaded... 
+17.4.2024, 18:59:23 - INFO - Server is running on port: 3040 
+17.4.2024, 18:59:23 - INFO - New connected socket [id: QorAfhLl1QQt_IWFAAAB] 
+17.4.2024, 19:09:53 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:09:54 - INFO - New connected socket [id: XgINr4b795K1hvGJAAAD] 
+17.4.2024, 19:14:21 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:14:21 - INFO - New connected socket [id: m9d1p1-dKKsNJTzMAAAF] 
+17.4.2024, 19:16:15 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 19:16:15 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 19:16:15 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:16:16 - INFO - New connected socket [id: D79sej4Clbh5T1zjAAAH] 
+17.4.2024, 19:22:04 - INFO - server.js loaded... 
+17.4.2024, 19:22:04 - INFO - Server is running on port: 3040 
+17.4.2024, 19:22:04 - INFO - New connected socket [id: aCa0wl71NKiZxca1AAAB] 
+17.4.2024, 19:22:06 - INFO - Req was made | / 
+17.4.2024, 19:22:06 - DEBUG - Getting Boards 
+17.4.2024, 19:22:06 - INFO - Req was made | / 
+17.4.2024, 19:22:06 - DEBUG - Getting Boards 
+17.4.2024, 19:22:06 - INFO - Req was made | / 
+17.4.2024, 19:22:06 - DEBUG - Getting Boards 
+17.4.2024, 19:22:17 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 19:22:17 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 19:22:17 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:22:17 - INFO - New connected socket [id: i3FX3ENvq8gbCdnvAAAD] 
+17.4.2024, 19:23:15 - INFO - server.js loaded... 
+17.4.2024, 19:23:15 - INFO - Server is running on port: 3040 
+17.4.2024, 19:23:16 - INFO - New connected socket [id: RiUFgYG4tnzfvHuaAAAB] 
+17.4.2024, 19:26:10 - INFO - server.js loaded... 
+17.4.2024, 19:26:10 - INFO - Server is running on port: 3040 
+17.4.2024, 19:26:10 - INFO - New connected socket [id: T-Zf5yRRskOV-qqCAAAB] 
+17.4.2024, 19:27:31 - INFO - server.js loaded... 
+17.4.2024, 19:27:31 - INFO - Server is running on port: 3040 
+17.4.2024, 19:27:31 - INFO - New connected socket [id: 7AY4iqnkQIiLhEZQAAAB] 
+17.4.2024, 19:28:18 - INFO - server.js loaded... 
+17.4.2024, 19:28:18 - INFO - Server is running on port: 3040 
+17.4.2024, 19:28:19 - INFO - New connected socket [id: quRJqKG22zdg16GgAAAB] 
+17.4.2024, 19:28:54 - INFO - server.js loaded... 
+17.4.2024, 19:28:54 - INFO - Server is running on port: 3040 
+17.4.2024, 19:28:55 - INFO - New connected socket [id: 98AOmsJgS4v20vSZAAAB] 
+17.4.2024, 19:29:14 - INFO - server.js loaded... 
+17.4.2024, 19:29:14 - INFO - Server is running on port: 3040 
+17.4.2024, 19:29:15 - INFO - New connected socket [id: wPyHgter16GiAdDaAAAB] 
+17.4.2024, 19:30:14 - INFO - server.js loaded... 
+17.4.2024, 19:30:14 - INFO - Server is running on port: 3040 
+17.4.2024, 19:30:15 - INFO - New connected socket [id: mXpSIl-MQ-J5ptUMAAAB] 
+17.4.2024, 19:30:50 - INFO - server.js loaded... 
+17.4.2024, 19:30:50 - INFO - Server is running on port: 3040 
+17.4.2024, 19:30:51 - INFO - New connected socket [id: _H188nY5OLA1RpDKAAAB] 
+17.4.2024, 19:31:07 - INFO - server.js loaded... 
+17.4.2024, 19:31:07 - INFO - Server is running on port: 3040 
+17.4.2024, 19:31:08 - INFO - New connected socket [id: 0mQm6BCkET7rQoV7AAAB] 
+17.4.2024, 19:31:32 - INFO - Server is running on port: 3040 
+17.4.2024, 19:31:32 - INFO - server.js loaded... 
+17.4.2024, 19:31:32 - INFO - New connected socket [id: OYehXQPpxArjVMU8AAAB] 
+17.4.2024, 19:31:47 - INFO - server.js loaded... 
+17.4.2024, 19:31:47 - INFO - Server is running on port: 3040 
+17.4.2024, 19:31:48 - INFO - New connected socket [id: mMGZoAzuHPYj_L6JAAAB] 
+17.4.2024, 19:34:46 - DEBUG - Getting Boards 
+17.4.2024, 19:34:46 - INFO - Req was made | / 
+17.4.2024, 19:34:46 - DEBUG - Getting Boards 
+17.4.2024, 19:34:46 - INFO - Req was made | / 
+17.4.2024, 19:34:46 - INFO - Req was made | / 
+17.4.2024, 19:34:46 - DEBUG - Getting Boards 
+17.4.2024, 19:34:48 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:34:48 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:54 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:54 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:55 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:55 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:55 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:55 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:55 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:55 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:55 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:35:55 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:02 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:02 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:02 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:02 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:02 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:02 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:02 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:02 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:03 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:03 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:03 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:03 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.4.2024, 19:36:04 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 19:36:04 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 19:36:04 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:36:04 - INFO - New connected socket [id: ubNLt6q70ZgIVwh4AAAD] 
+17.4.2024, 19:36:29 - INFO - server.js loaded... 
+17.4.2024, 19:36:29 - INFO - Server is running on port: 3040 
+17.4.2024, 19:36:29 - INFO - New connected socket [id: KsXtWQ2vgNAPXce4AAAB] 
+17.4.2024, 19:36:42 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 19:36:42 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 19:36:43 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:36:43 - INFO - New connected socket [id: bUl0INKbT68hEem0AAAD] 
+17.4.2024, 19:38:51 - INFO - server.js loaded... 
+17.4.2024, 19:38:51 - INFO - Server is running on port: 3040 
+17.4.2024, 19:38:52 - INFO - New connected socket [id: tAHJoJXWe8Rzo5xjAAAB] 
+17.4.2024, 19:39:08 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 19:39:08 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 19:39:08 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:39:09 - INFO - New connected socket [id: TzutuLYSS25BQi4nAAAD] 
+17.4.2024, 19:42:37 - INFO - server.js loaded... 
+17.4.2024, 19:42:37 - INFO - Server is running on port: 3040 
+17.4.2024, 19:42:37 - INFO - New connected socket [id: hpO9iAboIht1-MhWAAAB] 
+17.4.2024, 19:42:45 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 19:42:45 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 19:42:45 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:42:46 - INFO - New connected socket [id: O1UT4fzUyW199T5lAAAD] 
+17.4.2024, 19:43:27 - INFO - server.js loaded... 
+17.4.2024, 19:43:27 - INFO - Server is running on port: 3040 
+17.4.2024, 19:43:28 - INFO - New connected socket [id: syfKZ-J45rSAEI7CAAAB] 
+17.4.2024, 19:43:38 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 19:43:38 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 19:43:38 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:43:38 - INFO - New connected socket [id: ZkAShwntkWW7mm8PAAAD] 
+17.4.2024, 19:44:58 - INFO - server.js loaded... 
+17.4.2024, 19:44:58 - INFO - Server is running on port: 3040 
+17.4.2024, 19:44:58 - INFO - New connected socket [id: 2x3C_4kh_hMmJ3HwAAAB] 
+17.4.2024, 19:45:05 - DEBUG - auth.service - login with username: yahav 
+17.4.2024, 19:45:05 - ERROR - Failed to Login Error: Invalid username or password 
+17.4.2024, 19:45:05 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:45:06 - INFO - New connected socket [id: EYnyL3utDWhBPNvqAAAD] 
+17.4.2024, 19:53:35 - INFO - server.js loaded... 
+17.4.2024, 19:53:35 - INFO - Server is running on port: 3040 
+17.4.2024, 19:53:36 - INFO - New connected socket [id: F_PVrnaia1dOjL89AAAB] 
+17.4.2024, 19:56:51 - INFO - New connected socket [id: K5Js43VFKKzDCAP4AAAD] 
+17.4.2024, 19:56:52 - ERROR - while finding board b101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+17.4.2024, 19:56:52 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+17.4.2024, 19:56:52 - INFO - Req was made | / 
+17.4.2024, 19:56:52 - DEBUG - Getting Boards 
+17.4.2024, 19:56:52 - INFO - Req was made | / 
+17.4.2024, 19:56:52 - DEBUG - Getting Boards 
+17.4.2024, 19:56:59 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 20:26:14 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 21:17:39 - INFO - New connected socket [id: UdTA99OVIeHGQTsOAAAF] 
+17.4.2024, 21:18:37 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 21:18:37 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 21:18:37 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 21:18:37 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 21:18:37 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 21:18:38 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 21:20:25 - INFO - Socket UdTA99OVIeHGQTsOAAAF requesting to join board: 661d317018c67483cf1afd6c 
+17.4.2024, 21:20:25 - INFO - Socket UdTA99OVIeHGQTsOAAAF joined board: 661d317018c67483cf1afd6c 
+17.4.2024, 21:22:08 - INFO - server.js loaded... 
+17.4.2024, 21:22:08 - INFO - Server is running on port: 3040 
+17.4.2024, 21:22:08 - INFO - New connected socket [id: hjqNgoBnEo1U6xW8AAAB] 
+17.4.2024, 21:24:22 - INFO - server.js loaded... 
+17.4.2024, 21:24:22 - INFO - Server is running on port: 3040 
+17.4.2024, 21:24:23 - INFO - New connected socket [id: lW80Lnr3knFg8zkhAAAB] 
+17.4.2024, 22:12:02 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:12:02 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:12:02 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 22:12:02 - INFO - New connected socket [id: xLhfowuvY4imME10AAAD] 
+17.4.2024, 22:13:59 - DEBUG - auth.service - login with username: admin (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:13:59 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:13:59 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 22:14:00 - INFO - New connected socket [id: w8curHnCE9H8yqenAAAF] 
+17.4.2024, 22:14:11 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:14:11 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:14:11 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:14:11 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:14:11 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:14:11 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:41:23 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:41:23 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 22:41:23 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 22:41:23 - INFO - New connected socket [id: 6AIToo-pPSIgadTiAAAH] 
+17.4.2024, 23:05:35 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:35 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:35 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:36 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:36 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:36 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:39 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:39 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:40 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:40 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:40 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:40 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:42 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:42 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:42 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:42 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:42 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:05:42 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:21:20 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:21:20 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:21:20 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 23:21:20 - INFO - New connected socket [id: 3BKRp5aEZx_c9a5RAAAJ] 
+17.4.2024, 23:21:44 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:21:44 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+17.4.2024, 23:21:44 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 23:21:44 - INFO - New connected socket [id: MOoxcV2pa2PLGPdfAAAL] 
+18.4.2024, 0:26:17 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:26:17 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:26:17 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:26:17 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:26:17 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:26:17 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:36:05 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:36:05 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:36:05 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:36:05 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:36:05 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:36:05 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:37:58 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 0:38:07 - INFO - New connected socket [id: 5JD_AtcGW-R9GY3yAAAN] 
+18.4.2024, 0:45:12 - INFO - Server is running on port: 3040 
+18.4.2024, 0:45:12 - INFO - server.js loaded... 
+18.4.2024, 0:45:17 - INFO - New connected socket [id: t-1lB6CJlZloqnF7AAAB] 
+18.4.2024, 0:59:32 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:59:32 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:59:33 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:59:33 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:59:33 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 0:59:33 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:10 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:01:12 - INFO - New connected socket [id: T4FrlYE71HxGn9SiAAAD] 
+18.4.2024, 1:01:17 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:17 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:18 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:18 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:18 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:18 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:19 - INFO - Socket T4FrlYE71HxGn9SiAAAD requesting to join board: 661d317018c67483cf1afd6c 
+18.4.2024, 1:01:19 - INFO - Socket T4FrlYE71HxGn9SiAAAD joined board: 661d317018c67483cf1afd6c 
+18.4.2024, 1:01:56 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:56 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:56 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:56 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:56 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:01:56 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:03:34 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:03:34 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:03:35 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:03:35 - INFO - New connected socket [id: pQv4yWQttquMj7NgAAAF] 
+18.4.2024, 1:04:13 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:04:13 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:04:13 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:04:13 - INFO - New connected socket [id: ooVBt44Aorw0cohAAAAH] 
+18.4.2024, 1:06:24 - INFO - server.js loaded... 
+18.4.2024, 1:06:24 - INFO - Server is running on port: 3040 
+18.4.2024, 1:06:25 - INFO - New connected socket [id: 8faCDZa1yf6AEg5KAAAB] 
+18.4.2024, 1:08:12 - INFO - server.js loaded... 
+18.4.2024, 1:08:12 - INFO - Server is running on port: 3040 
+18.4.2024, 1:08:12 - INFO - New connected socket [id: bbXFn-kYfGDKtgdTAAAB] 
+18.4.2024, 1:08:33 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:08:33 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:08:33 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:08:33 - INFO - New connected socket [id: wKvu2zIPwh9OeA6VAAAD] 
+18.4.2024, 1:11:13 - INFO - server.js loaded... 
+18.4.2024, 1:11:13 - INFO - Server is running on port: 3040 
+18.4.2024, 1:11:13 - INFO - New connected socket [id: W0gAWQcJlCl_9Xr3AAAB] 
+18.4.2024, 1:11:32 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:11:32 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:11:32 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:11:33 - INFO - New connected socket [id: JBxf7ouZDcL3k_6bAAAD] 
+18.4.2024, 1:14:07 - INFO - server.js loaded... 
+18.4.2024, 1:14:07 - INFO - Server is running on port: 3040 
+18.4.2024, 1:14:07 - INFO - New connected socket [id: VOFgHw5sCH62dithAAAB] 
+18.4.2024, 1:14:24 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:14:24 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:14:24 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:14:24 - INFO - New connected socket [id: DogE7W1Jsxm-v1IzAAAD] 
+18.4.2024, 1:15:17 - INFO - server.js loaded... 
+18.4.2024, 1:15:17 - INFO - Server is running on port: 3040 
+18.4.2024, 1:15:17 - INFO - New connected socket [id: cjHrWgCGHcYJhpVQAAAB] 
+18.4.2024, 1:16:43 - INFO - server.js loaded... 
+18.4.2024, 1:16:43 - INFO - Server is running on port: 3040 
+18.4.2024, 1:16:44 - INFO - New connected socket [id: Xt6mh-NHpRPoYoAPAAAB] 
+18.4.2024, 1:16:46 - INFO - server.js loaded... 
+18.4.2024, 1:16:46 - INFO - Server is running on port: 3040 
+18.4.2024, 1:16:46 - INFO - New connected socket [id: epNxwrNfPivsQ1H7AAAB] 
+18.4.2024, 1:17:01 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:17:01 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:17:02 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:17:02 - INFO - New connected socket [id: 5wsOJ9b7f6OuNmAuAAAD] 
+18.4.2024, 1:21:26 - INFO - server.js loaded... 
+18.4.2024, 1:21:26 - INFO - Server is running on port: 3040 
+18.4.2024, 1:21:27 - INFO - New connected socket [id: ZqP6157Wg4FXEmaZAAAB] 
+18.4.2024, 1:21:51 - INFO - server.js loaded... 
+18.4.2024, 1:21:51 - INFO - Server is running on port: 3040 
+18.4.2024, 1:21:51 - INFO - New connected socket [id: wA8HaOd0ekEwaqCiAAAB] 
+18.4.2024, 1:23:17 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:23:17 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:23:18 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:23:18 - INFO - New connected socket [id: 2bWDMXXr-eEnrQ5SAAAD] 
+18.4.2024, 1:27:59 - DEBUG - auth.service - login with username: s (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:27:59 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:28:00 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:28:00 - INFO - New connected socket [id: WBHDerYDqYtH-3ZIAAAF] 
+18.4.2024, 1:28:03 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:28:03 - INFO - New connected socket [id: rK3RQThxXTXrLH3uAAAH] 
+18.4.2024, 1:29:26 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:29:26 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:29:26 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:29:27 - INFO - New connected socket [id: FReV6Yog8sB_DWPNAAAJ] 
+18.4.2024, 1:41:30 - INFO - server.js loaded... 
+18.4.2024, 1:41:30 - INFO - Server is running on port: 3040 
+18.4.2024, 1:41:30 - INFO - New connected socket [id: FPUE6sZOZeaXajfrAAAB] 
+18.4.2024, 1:41:59 - INFO - Server is running on port: 3040 
+18.4.2024, 1:41:59 - INFO - server.js loaded... 
+18.4.2024, 1:41:59 - INFO - New connected socket [id: GDc0kYtRwOrLOWzGAAAB] 
+18.4.2024, 1:42:20 - INFO - server.js loaded... 
+18.4.2024, 1:42:20 - INFO - Server is running on port: 3040 
+18.4.2024, 1:42:20 - INFO - New connected socket [id: m9Y97NhDgQWAKA_MAAAB] 
+18.4.2024, 1:42:26 - DEBUG - auth.service - login with username: yahav (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:42:26 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:42:26 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:42:26 - INFO - New connected socket [id: x2pT0i2E67BEr8ZsAAAD] 
+18.4.2024, 1:44:46 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:46:50 - INFO - server.js loaded... 
+18.4.2024, 1:46:51 - INFO - Server is running on port: 3040 
+18.4.2024, 1:46:51 - INFO - New connected socket [id: qaVGWM215_h19ZAZAAAB] 
+18.4.2024, 1:47:38 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:47:59 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:48:54 - INFO - server.js loaded... 
+18.4.2024, 1:48:54 - INFO - Server is running on port: 3040 
+18.4.2024, 1:48:54 - INFO - New connected socket [id: gXn780qs_5mwQnowAAAB] 
+18.4.2024, 1:49:01 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:52:43 - INFO - server.js loaded... 
+18.4.2024, 1:52:43 - INFO - Server is running on port: 3040 
+18.4.2024, 1:52:43 - INFO - New connected socket [id: gOBm_vcs4i2jJ7zhAAAB] 
+18.4.2024, 1:53:04 - INFO - server.js loaded... 
+18.4.2024, 1:53:04 - INFO - Server is running on port: 3040 
+18.4.2024, 1:53:04 - INFO - New connected socket [id: 8xmlOnEShSfK8YRLAAAB] 
+18.4.2024, 1:53:14 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:53:15 - INFO - New connected socket [id: PtcuAs8BLtsJpd__AAAD] 
+18.4.2024, 1:53:23 - DEBUG - auth.service - login with username: dada (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:53:23 - ERROR - Failed to Login Error: Invalid username or password (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:53:23 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 1:53:23 - INFO - New connected socket [id: 2coNelra_WN-Q55dAAAF] 
+18.4.2024, 1:53:27 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:53:27 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:53:28 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:53:28 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:53:28 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:53:28 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:53:38 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:54:58 - INFO - server.js loaded... 
+18.4.2024, 1:54:58 - INFO - Server is running on port: 3040 
+18.4.2024, 1:54:59 - INFO - New connected socket [id: M54XiMos4sbQGmKYAAAB] 
+18.4.2024, 1:55:46 - INFO - server.js loaded... 
+18.4.2024, 1:55:46 - INFO - Server is running on port: 3040 
+18.4.2024, 1:55:46 - INFO - New connected socket [id: NpAeGzb83EO16ZgzAAAB] 
+18.4.2024, 1:55:53 - INFO - server.js loaded... 
+18.4.2024, 1:55:53 - INFO - Server is running on port: 3040 
+18.4.2024, 1:55:53 - INFO - New connected socket [id: 5kJfLAhv1fgGWK9mAAAB] 
+18.4.2024, 1:56:20 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 1:59:51 - INFO - server.js loaded... 
+18.4.2024, 1:59:51 - INFO - Server is running on port: 3040 
+18.4.2024, 1:59:52 - INFO - New connected socket [id: Tt3wznV5CMg4fF7bAAAB] 
+18.4.2024, 1:59:55 - INFO - server.js loaded... 
+18.4.2024, 1:59:55 - INFO - Server is running on port: 3040 
+18.4.2024, 1:59:55 - INFO - New connected socket [id: tE44EWPkXMW7rEWhAAAB] 
+18.4.2024, 2:00:29 - INFO - server.js loaded... 
+18.4.2024, 2:00:29 - INFO - Server is running on port: 3040 
+18.4.2024, 2:00:29 - INFO - New connected socket [id: oHi_yMaW9nn6Ua6-AAAB] 
+18.4.2024, 2:00:34 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 2:02:18 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 2:04:44 - INFO - server.js loaded... 
+18.4.2024, 2:04:44 - INFO - Server is running on port: 3040 
+18.4.2024, 2:04:44 - INFO - New connected socket [id: j0r4JF0T6T0AAY3CAAAB] 
+18.4.2024, 2:04:52 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 2:09:25 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON 
+18.4.2024, 2:27:40 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 2:27:45 - INFO - New connected socket [id: BnaTiC9OTor1jKFIAAAD] 
+18.4.2024, 2:27:55 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:00:56 - INFO - New connected socket [id: iLkgIM5ezICWE1GCAAAF] 
+18.4.2024, 10:03:57 - INFO - server.js loaded... 
+18.4.2024, 10:03:57 - INFO - Server is running on port: 3040 
+18.4.2024, 10:04:00 - INFO - New connected socket [id: 2LOEswZqGn8putqUAAAB] 
+18.4.2024, 10:04:35 - INFO - New connected socket [id: 3Fh_RsxO2gV5S3oQAAAD] 
+18.4.2024, 10:04:43 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 10:04:43 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 10:04:43 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 10:04:43 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 10:04:43 - INFO - Req was made | / (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 10:04:43 - DEBUG - Getting Boards (userId: 660abb2c0b9c35335c852c97)
+18.4.2024, 10:05:17 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:05:40 - INFO - New connected socket [id: jkMNbtETk09Nj4UbAAAF] 
+18.4.2024, 10:05:58 - INFO - server.js loaded... 
+18.4.2024, 10:05:59 - INFO - Server is running on port: 3040 
+18.4.2024, 10:06:10 - INFO - server.js loaded... 
+18.4.2024, 10:06:10 - INFO - Server is running on port: 3040 
+18.4.2024, 10:06:12 - INFO - New connected socket [id: od8zSnxpfybropBBAAAB] 
+18.4.2024, 10:06:13 - INFO - New connected socket [id: fIScnVFRkN-dfmNyAAAD] 
+18.4.2024, 10:18:42 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:18:43 - INFO - New connected socket [id: Wwaltyu4IuNw1slTAAAF] 
+18.4.2024, 10:18:53 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:18:54 - INFO - New connected socket [id: u27QAibhot6ox3uSAAAH] 
+18.4.2024, 10:19:18 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:19:18 - INFO - New connected socket [id: bB_AKmKdSsfocwsbAAAJ] 
+18.4.2024, 10:19:57 - ERROR - Failed to signup SyntaxError: "[object Object]" is not valid JSON (userId: 660abb2c0b9c35335c852c97)
