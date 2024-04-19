@@ -58,12 +58,8 @@ setupSocketAPI(server)
 // app.get('/**', (req, res) => {
 //     res.sendFile(path.resolve('public/index.html'))
 // })
-// app.get('/**', (req, res) => {
-//     res.sendFile(join(__dirname, 'public/index.html'))
-// })
-
 app.get('/**', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public/index.html'))
+    res.sendFile(join(__dirname, 'public/index.html'))
 })
 
 const port = process.env.PORT || 3040
