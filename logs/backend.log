@@ -1295,3 +1295,16 @@
 20.4.2024, 21:37:13 - DEBUG - Getting Boards 
 20.4.2024, 21:37:13 - INFO - Req was made | / 
 20.4.2024, 21:37:13 - DEBUG - Getting Boards 
+20.4.2024, 21:50:22 - INFO - server.js loaded... 
+20.4.2024, 21:50:23 - INFO - Server is running on port: 3040 
+20.4.2024, 21:51:11 - INFO - Req was made | / 
+20.4.2024, 21:51:11 - DEBUG - Getting Boards 
+20.4.2024, 21:51:11 - INFO - Req was made | / 
+20.4.2024, 21:51:12 - DEBUG - Getting Boards 
+20.4.2024, 22:22:58 - INFO - server.js loaded... 
+20.4.2024, 22:22:58 - INFO - Server is running on port: 3040 
+20.4.2024, 22:23:03 - INFO - Req was made | / 
+20.4.2024, 22:23:03 - DEBUG - Getting Boards 
+20.4.2024, 22:23:22 - INFO - Req was made | /message 
+20.4.2024, 22:26:11 - INFO - Req was made | / 
+20.4.2024, 22:26:11 - DEBUG - Getting Boards 

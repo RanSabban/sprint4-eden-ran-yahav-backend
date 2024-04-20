@@ -77,7 +77,7 @@ export async function updateBoard(req, res) {
         logger.error('Failed to update board', err)
         res.status(500).send({ err: 'Failed to update board' })
     }
-}
+}a
 
 export async function removeBoard(req, res) {
     try {
