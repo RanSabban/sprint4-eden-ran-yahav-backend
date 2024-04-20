@@ -119,6 +119,16 @@ if (process.env.NODE_ENV === 'production') {
     expressApp.use(cors(corsOptions));
 }
 
+// Set up the Slack event challenge handler
+expressApp.post('/slack/events', (req, res) => {
+    if (req.body.type === 'url_verification') {
+        res.status(200).send(req.body.challenge);
+    } else {
+        res.status(200).json({ message: 'Event received' });
+    }
+});
+
+
 slackApp.message('hello', async ({ message, say }) => {
     await say(`Hello there, <@${message.user}>!`);
 });
