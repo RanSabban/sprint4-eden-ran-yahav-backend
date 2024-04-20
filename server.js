@@ -128,15 +128,25 @@ slackApp.message('hello', async ({ message, say }) => {
         await slackApp.start();
         console.log('Slack app is running!');
         // Post a message after the app has started
-        // await slackApp.client.chat.postMessage({
-        //     token: process.env.SLACK_BOT_TOKEN,
-        //     channel: process.env.SLACK_CHANNEL,
-        //     text: 'Eden is stuck on Task: Sound Bug!'
-        // });
+        await slackApp.client.chat.postMessage({
+            token: process.env.SLACK_BOT_TOKEN,
+            channel: process.env.SLACK_CHANNEL,
+            text: 'Eden is stuck on Task: Sound Bug!'
+        });
     } catch (error) {
         console.error('Error starting Slack app:', error);
     }
 })();
+console.log('Posting to channel ID:', process.env.SLACK_CHANNEL);
+
+// Now, attempt to post the message
+await slackApp.client.chat.postMessage({
+    token: process.env.SLACK_BOT_TOKEN,
+    channel: process.env.SLACK_CHANNEL,
+    text: 'Eden is stuck on Task: Sound Bug!'
+}).catch((error) => {
+    console.error('Failed to post message:', error);
+});
 
 import { authRoutes } from './api/auth/auth.routes.js';
 import { userRoutes } from './api/user/user.routes.js';
