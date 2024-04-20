@@ -1308,3 +1308,5 @@
 20.4.2024, 22:23:22 - INFO - Req was made | /message 
 20.4.2024, 22:26:11 - INFO - Req was made | / 
 20.4.2024, 22:26:11 - DEBUG - Getting Boards 
+20.4.2024, 22:33:43 - INFO - server.js loaded... 
+20.4.2024, 22:33:43 - INFO - Server is running on port: 3040 
