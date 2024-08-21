@@ -2100,3 +2100,24 @@
 21.8.2024, 19:01:05 - INFO - server.js loaded... 
 21.8.2024, 19:01:05 - INFO - Server is running on port: 3040 
 21.8.2024, 19:01:06 - INFO - New connected socket [id: 8_Jw79L18T-6RReNAAAB] 
+21.8.2024, 19:25:23 - INFO - Socket disconnected [id: undefined] 
+21.8.2024, 19:25:25 - INFO - New connected socket [id: asIJ1H8XgnGy38AyAAAD] 
+21.8.2024, 19:25:25 - INFO - Setting socket.userId = 662061637c155e8dc9d15214 for socket [id: asIJ1H8XgnGy38AyAAAD] 
+21.8.2024, 19:25:25 - INFO - Req was made | / (userId: 662061637c155e8dc9d15214)
+21.8.2024, 19:25:25 - DEBUG - Getting Boards (userId: 662061637c155e8dc9d15214)
+21.8.2024, 19:25:25 - INFO - Req was made | / (userId: 662061637c155e8dc9d15214)
+21.8.2024, 19:25:25 - DEBUG - Getting Boards (userId: 662061637c155e8dc9d15214)
+21.8.2024, 19:25:26 - INFO - Socket asIJ1H8XgnGy38AyAAAD requesting to join board: 661d317018c67483cf1afd6c 
+21.8.2024, 19:25:26 - INFO - Socket asIJ1H8XgnGy38AyAAAD joined board: 661d317018c67483cf1afd6c 
+21.8.2024, 19:41:05 - INFO - Socket disconnected [id: undefined] 
+21.8.2024, 19:41:07 - INFO - New connected socket [id: Cq5zUaPg54pvCpGYAAAF] 
+21.8.2024, 19:41:07 - INFO - Setting socket.userId = 662061637c155e8dc9d15214 for socket [id: Cq5zUaPg54pvCpGYAAAF] 
+21.8.2024, 19:41:49 - INFO - server.js loaded... 
+21.8.2024, 19:41:49 - INFO - Server is running on port: 3040 
+21.8.2024, 19:41:50 - INFO - New connected socket [id: SgqdudfjddgZO__bAAAB] 
+21.8.2024, 19:41:51 - INFO - server.js loaded... 
+21.8.2024, 19:41:51 - INFO - Server is running on port: 3040 
+21.8.2024, 19:41:53 - INFO - New connected socket [id: W_5uSHgk2MHjKYN0AAAB] 
+21.8.2024, 19:41:56 - INFO - Socket disconnected [id: undefined] 
+21.8.2024, 19:41:59 - INFO - New connected socket [id: E708iC_0sUcPYe9yAAAD] 
+21.8.2024, 19:41:59 - INFO - Setting socket.userId = 662061637c155e8dc9d15214 for socket [id: E708iC_0sUcPYe9yAAAD] 
