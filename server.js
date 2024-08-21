@@ -142,7 +142,7 @@ server.listen(port, () => {
 //         await slackApp.client.chat.postMessage({
 //             token: process.env.SLACK_BOT_TOKEN,
 //             channel: process.env.SLACK_CHANNEL,
-//             text: 'Eden is stuck on Task: Sound Bug!'
+//             text: 'המון בהצלחה לכולם מצוות oneday!'
 //         });
 //     } catch (error) {
 //         console.error('Error starting Slack app:', error);

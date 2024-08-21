@@ -2056,3 +2056,47 @@
 21.4.2024, 13:53:52 - INFO - Server is running on port: 3040 
 21.4.2024, 13:53:52 - INFO - New connected socket [id: AriGec1mGoolbPYJAAAB] 
 21.4.2024, 13:53:52 - INFO - New connected socket [id: nrdrFq2LzoImOz0UAAAD] 
+21.4.2024, 14:20:18 - INFO - Socket disconnected [id: undefined] 
+21.4.2024, 15:21:34 - INFO - server.js loaded... 
+21.4.2024, 15:21:34 - INFO - Server is running on port: 3040 
+21.4.2024, 15:21:34 - INFO - New connected socket [id: b7Llt6KWj9EIcQ3GAAAB] 
+21.4.2024, 15:23:57 - INFO - server.js loaded... 
+21.4.2024, 15:23:57 - INFO - Server is running on port: 3040 
+21.4.2024, 15:53:14 - INFO - server.js loaded... 
+21.4.2024, 15:53:14 - INFO - Server is running on port: 3040 
+1.7.2024, 14:35:09 - INFO - server.js loaded... 
+1.7.2024, 14:35:09 - INFO - Server is running on port: 3040 
+21.8.2024, 17:46:07 - INFO - server.js loaded... 
+21.8.2024, 17:46:07 - INFO - Server is running on port: 3040 
+21.8.2024, 17:46:29 - DEBUG - auth.service - login with username: guest 
+21.8.2024, 17:46:29 - INFO - Req was made | / 
+21.8.2024, 17:46:29 - DEBUG - Getting Boards 
+21.8.2024, 17:46:29 - INFO - Req was made | / 
+21.8.2024, 17:46:29 - DEBUG - Getting Boards 
+21.8.2024, 17:46:29 - INFO - Req was made | / 
+21.8.2024, 17:46:29 - DEBUG - Getting Boards 
+21.8.2024, 17:46:29 - INFO - User login:  | {"_id":"662061637c155e8dc9d15214","username":"guest","fullname":"Guest","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","createdAt":1713398115430,"isAdmin":false} 
+21.8.2024, 18:59:12 - INFO - server.js loaded... 
+21.8.2024, 18:59:12 - INFO - Server is running on port: 3040 
+21.8.2024, 18:59:12 - INFO - New connected socket [id: ENyFPwE7q4tooBlIAAAB] 
+21.8.2024, 18:59:12 - INFO - Setting socket.userId = [object Object] for socket [id: ENyFPwE7q4tooBlIAAAB] 
+21.8.2024, 18:59:13 - INFO - Socket ENyFPwE7q4tooBlIAAAB requesting to join board: 661d317018c67483cf1afd6c 
+21.8.2024, 18:59:13 - INFO - Socket ENyFPwE7q4tooBlIAAAB joined board: 661d317018c67483cf1afd6c 
+21.8.2024, 18:59:55 - INFO - Socket disconnected [id: undefined] 
+21.8.2024, 18:59:57 - INFO - New connected socket [id: PTewlb1X-6lMI3bfAAAD] 
+21.8.2024, 18:59:57 - INFO - Setting socket.userId = 662061637c155e8dc9d15214 for socket [id: PTewlb1X-6lMI3bfAAAD] 
+21.8.2024, 18:59:57 - INFO - Req was made | / (userId: 662061637c155e8dc9d15214)
+21.8.2024, 18:59:57 - DEBUG - Getting Boards (userId: 662061637c155e8dc9d15214)
+21.8.2024, 18:59:57 - INFO - Req was made | / (userId: 662061637c155e8dc9d15214)
+21.8.2024, 18:59:57 - DEBUG - Getting Boards (userId: 662061637c155e8dc9d15214)
+21.8.2024, 18:59:57 - INFO - Socket PTewlb1X-6lMI3bfAAAD requesting to join board: 661d317018c67483cf1afd6c 
+21.8.2024, 18:59:57 - INFO - Socket PTewlb1X-6lMI3bfAAAD joined board: 661d317018c67483cf1afd6c 
+21.8.2024, 19:00:23 - INFO - Socket disconnected [id: undefined] 
+21.8.2024, 19:00:25 - INFO - New connected socket [id: kSU2d-PY-KB-wjhlAAAF] 
+21.8.2024, 19:00:25 - INFO - Setting socket.userId = 662061637c155e8dc9d15214 for socket [id: kSU2d-PY-KB-wjhlAAAF] 
+21.8.2024, 19:01:04 - INFO - server.js loaded... 
+21.8.2024, 19:01:04 - INFO - Server is running on port: 3040 
+21.8.2024, 19:01:04 - INFO - New connected socket [id: zK-4J5sVMkm5q11JAAAB] 
+21.8.2024, 19:01:05 - INFO - server.js loaded... 
+21.8.2024, 19:01:05 - INFO - Server is running on port: 3040 
+21.8.2024, 19:01:06 - INFO - New connected socket [id: 8_Jw79L18T-6RReNAAAB] 
