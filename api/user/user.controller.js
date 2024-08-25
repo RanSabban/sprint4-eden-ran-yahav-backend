@@ -10,7 +10,20 @@ export async function getUser(req, res) {
         res.status(500).send({ err: 'Failed to get user' })
     }
 }
-
+export async function checkUsername(req, res) {
+    try {
+        const { username } = req.query
+        const user = await userService.getByUsername(username)
+        if (user) {
+            res.send({ available: false }) // Username is taken
+        } else {
+            res.send({ available: true }) // Username is available
+        }
+    } catch (err) {
+        logger.error('Failed to check username', err)
+        res.status(500).send({ err: 'Failed to check username' })
+    }
+}
 export async function getUsers(req, res) {
     try {
         const filterBy = {

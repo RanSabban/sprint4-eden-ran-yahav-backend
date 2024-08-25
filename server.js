@@ -1,10 +1,11 @@
-import http, { Server } from 'http'
-// import { http } from 'follow-redirects'
+import http from 'http'
 import express from 'express'
 import path, { dirname } from 'path'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
 import { fileURLToPath } from 'url'
+import multer from 'multer'
+import bodyParser from 'body-parser'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
@@ -14,34 +15,65 @@ logger.info('server.js loaded...')
 
 const app = express()
 const server = http.createServer(app)
+
+// Configure Multer
+const storage = multer.diskStorage({
+    destination: (req, file, cb) => {
+        cb(null, path.join(__dirname, 'uploads'))  // Directory where files will be saved
+    },
+    filename: (req, file, cb) => {
+        const ext = path.extname(file.originalname)
+        cb(null, `${Date.now()}${ext}`)  // Generate a unique filename
+    }
+})
+
+const upload = multer({
+    storage: storage,
+    limits: { fileSize: 10 * 1024 * 1024 }  // Limit file size to 10 MB
+})
+
+// Enable CORS for development
+const corsOptions = {
+    origin: ['http://127.0.0.1:5173', 'http://localhost:5173', 'http://localhost:5174', 'http://127.0.0.1:3000', 'http://localhost:3000'],
+    credentials: true
+}
+
+// Apply CORS middleware
+app.use(cors(corsOptions))
+
 // Express App Config
 app.use(cookieParser())
 app.use(express.json())
 app.use(express.static('public'))
+app.use(bodyParser.json({ limit: '10mb' }))
+app.use(bodyParser.urlencoded({ limit: '10mb', extended: true }))
 
+// Serve static files in production
 if (process.env.NODE_ENV === 'production') {
-    // Express serve static files on production environment
     app.use(express.static(path.resolve(__dirname, 'public')))
     console.log('__dirname: ', __dirname)
-} else {
-    // Configuring CORS
-    const corsOptions = {
-        // Make sure origin contains the url your frontend is running on
-        origin: ['http://127.0.0.1:5173', 'http://localhost:5173', 'http://localhost:5174', 'http://127.0.0.1:3000', 'http://localhost:3000'],
-        credentials: true
-    }
-    app.use(cors(corsOptions))
 }
 
+// File Upload Route
+app.post('/upload', upload.single('file'), (req, res) => {
+    try {
+        res.status(200).json({ message: 'File uploaded successfully', file: req.file })
+    } catch (error) {
+        res.status(400).json({ message: 'Error uploading file', error })
+    }
+})
+
+// Serve static files from 'uploads' directory
+app.use('/uploads', express.static(path.join(__dirname, 'uploads')))
+
+// Routes
 import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { boardRoutes } from './api/board/board.routes.js'
 import { reviewRoutes } from './api/review/review.routes.js'
 import { setupSocketAPI } from './services/socket.service.js'
-
-
-// routes
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
+
 app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/auth', authRoutes)
@@ -50,18 +82,7 @@ app.use('/api/board', boardRoutes)
 app.use('/api/review', reviewRoutes)
 setupSocketAPI(server)
 
-
-// Make every unmatched server-side-route fall back to index.html
-// So when requesting http://localhost:3030/index.html/car/123 it will still respond with
-// our SPA (single page app) (the index.html file) and allow vue-router to take it from there
-
-// app.get('/**', (req, res) => {
-//     res.sendFile(path.resolve('public/index.html'))
-// })
-// app.get('/**', (req, res) => {
-//     res.sendFile(join(__dirname, 'public/index.html'))
-// })
-
+// Make every unmatched server-side route fall back to index.html
 app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public/index.html'))
 })
@@ -71,6 +92,7 @@ const port = process.env.PORT || 3040
 server.listen(port, () => {
     logger.info('Server is running on port: ' + port)
 })
+
 
 // import dotenv from 'dotenv';
 // import express from 'express';
